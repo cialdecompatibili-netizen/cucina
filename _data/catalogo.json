@@ -102,5 +102,576 @@
       }
     }
   ],
-  "prodotti": []
+  "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "pizza-margherita",
+      "nome": "Pizza Margherita",
+      "categoria": "pizza",
+      "prezzo_centesimi": 750,
+      "descrizione": "Pomodoro, fior di latte e basilico.",
+      "descrizione_completa": "Pomodoro, fior di latte e basilico.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Margherita Pizza",
+          "descrizione": "Tomato, mozzarella and basil.",
+          "descrizione_completa": "Tomato, mozzarella and basil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pizza-diavola",
+      "nome": "Pizza Diavola",
+      "categoria": "pizza",
+      "prezzo_centesimi": 900,
+      "descrizione": "Pomodoro, mozzarella e salame piccante.",
+      "descrizione_completa": "Pomodoro, mozzarella e salame piccante.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Diavola Pizza",
+          "descrizione": "Tomato, mozzarella and spicy salami.",
+          "descrizione_completa": "Tomato, mozzarella and spicy salami."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pizza-al-taglio",
+      "nome": "Pizza al taglio",
+      "categoria": "pizza",
+      "prezzo_centesimi": 350,
+      "descrizione": "Teglia croccante, il taglio del giorno.",
+      "descrizione_completa": "Teglia croccante, il taglio del giorno.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pizza by the slice",
+          "descrizione": "Crispy pan pizza, the slice of the day.",
+          "descrizione_completa": "Crispy pan pizza, the slice of the day."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "piadina-crudo-e-squacquerone",
+      "nome": "Piadina crudo e squacquerone",
+      "categoria": "piadine-wrap",
+      "prezzo_centesimi": 650,
+      "descrizione": "Prosciutto crudo, squacquerone e rucola.",
+      "descrizione_completa": "Prosciutto crudo, squacquerone e rucola.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Piadina with prosciutto and squacquerone",
+          "descrizione": "Cured ham, soft cheese and rocket.",
+          "descrizione_completa": "Cured ham, soft cheese and rocket."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "piadina-pollo-e-verdure",
+      "nome": "Piadina pollo e verdure",
+      "categoria": "piadine-wrap",
+      "prezzo_centesimi": 650,
+      "descrizione": "Pollo alla griglia e verdure di stagione.",
+      "descrizione_completa": "Pollo alla griglia e verdure di stagione.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Piadina with chicken and vegetables",
+          "descrizione": "Grilled chicken and seasonal vegetables.",
+          "descrizione_completa": "Grilled chicken and seasonal vegetables."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "wrap-tonno-e-insalata",
+      "nome": "Wrap tonno e insalata",
+      "categoria": "piadine-wrap",
+      "prezzo_centesimi": 600,
+      "descrizione": "Tonno, insalata e pomodoro in un wrap morbido.",
+      "descrizione_completa": "Tonno, insalata e pomodoro in un wrap morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tuna and salad wrap",
+          "descrizione": "Tuna, salad and tomato in a soft wrap.",
+          "descrizione_completa": "Tuna, salad and tomato in a soft wrap."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "lasagne-alla-bolognese",
+      "nome": "Lasagne alla bolognese",
+      "categoria": "primi-forno",
+      "prezzo_centesimi": 850,
+      "descrizione": "Sfoglia, ragu e besciamella, gratinate al forno.",
+      "descrizione_completa": "Sfoglia, ragu e besciamella, gratinate al forno.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Lasagne bolognese",
+          "descrizione": "Pasta sheets, meat ragu and bechamel, baked.",
+          "descrizione_completa": "Pasta sheets, meat ragu and bechamel, baked."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pasta-al-forno",
+      "nome": "Pasta al forno",
+      "categoria": "primi-forno",
+      "prezzo_centesimi": 800,
+      "descrizione": "Pasta, sugo, mozzarella e prosciutto cotto.",
+      "descrizione_completa": "Pasta, sugo, mozzarella e prosciutto cotto.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Baked pasta",
+          "descrizione": "Pasta with tomato sauce, mozzarella and ham.",
+          "descrizione_completa": "Pasta with tomato sauce, mozzarella and ham."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cannelloni-ricotta-e-spinaci",
+      "nome": "Cannelloni ricotta e spinaci",
+      "categoria": "primi-forno",
+      "prezzo_centesimi": 850,
+      "descrizione": "Ripieni di ricotta e spinaci, con pomodoro.",
+      "descrizione_completa": "Ripieni di ricotta e spinaci, con pomodoro.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ricotta and spinach cannelloni",
+          "descrizione": "Filled with ricotta and spinach, in tomato sauce.",
+          "descrizione_completa": "Filled with ricotta and spinach, in tomato sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "hamburger-classico",
+      "nome": "Hamburger classico",
+      "categoria": "hamburger",
+      "prezzo_centesimi": 850,
+      "descrizione": "Manzo, cheddar, insalata e pomodoro.",
+      "descrizione_completa": "Manzo, cheddar, insalata e pomodoro.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Classic burger",
+          "descrizione": "Beef, cheddar, lettuce and tomato.",
+          "descrizione_completa": "Beef, cheddar, lettuce and tomato."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "hamburger-bacon",
+      "nome": "Hamburger bacon",
+      "categoria": "hamburger",
+      "prezzo_centesimi": 950,
+      "descrizione": "Manzo, bacon croccante, cheddar e salsa.",
+      "descrizione_completa": "Manzo, bacon croccante, cheddar e salsa.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Bacon burger",
+          "descrizione": "Beef, crispy bacon, cheddar and sauce.",
+          "descrizione_completa": "Beef, crispy bacon, cheddar and sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "patatine-fritte",
+      "nome": "Patatine fritte",
+      "categoria": "hamburger",
+      "prezzo_centesimi": 350,
+      "descrizione": "Porzione di patatine croccanti.",
+      "descrizione_completa": "Porzione di patatine croccanti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "French fries",
+          "descrizione": "A portion of crispy fries.",
+          "descrizione_completa": "A portion of crispy fries."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pollo-arrosto-intero",
+      "nome": "Pollo arrosto intero",
+      "categoria": "pollo-rosticceria",
+      "prezzo_centesimi": 1200,
+      "descrizione": "Pollo arrosto intero con le sue patate.",
+      "descrizione_completa": "Pollo arrosto intero con le sue patate.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Whole roast chicken",
+          "descrizione": "Whole roast chicken with potatoes.",
+          "descrizione_completa": "Whole roast chicken with potatoes."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "mezzo-pollo-con-patate",
+      "nome": "Mezzo pollo con patate",
+      "categoria": "pollo-rosticceria",
+      "prezzo_centesimi": 750,
+      "descrizione": "Mezzo pollo arrosto e patate al forno.",
+      "descrizione_completa": "Mezzo pollo arrosto e patate al forno.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Half chicken with potatoes",
+          "descrizione": "Half roast chicken with oven potatoes.",
+          "descrizione_completa": "Half roast chicken with oven potatoes."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cosce-di-pollo-al-forno",
+      "nome": "Cosce di pollo al forno",
+      "categoria": "pollo-rosticceria",
+      "prezzo_centesimi": 650,
+      "descrizione": "Due cosce dorate al forno.",
+      "descrizione_completa": "Due cosce dorate al forno.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Oven chicken thighs",
+          "descrizione": "Two golden oven-baked thighs.",
+          "descrizione_completa": "Two golden oven-baked thighs."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "suppli-al-telefono",
+      "nome": "Supplì al telefono",
+      "categoria": "fritti",
+      "prezzo_centesimi": 250,
+      "descrizione": "Riso, ragu e mozzarella filante.",
+      "descrizione_completa": "Riso, ragu e mozzarella filante.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Supplì with mozzarella",
+          "descrizione": "Rice, ragu and stretchy mozzarella.",
+          "descrizione_completa": "Rice, ragu and stretchy mozzarella."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "arancini-siciliani",
+      "nome": "Arancini siciliani",
+      "categoria": "fritti",
+      "prezzo_centesimi": 300,
+      "descrizione": "Riso, ragu e piselli, panati e fritti.",
+      "descrizione_completa": "Riso, ragu e piselli, panati e fritti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Sicilian arancini",
+          "descrizione": "Rice, ragu and peas, breaded and fried.",
+          "descrizione_completa": "Rice, ragu and peas, breaded and fried."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "fritto-misto",
+      "nome": "Fritto misto",
+      "categoria": "fritti",
+      "prezzo_centesimi": 700,
+      "descrizione": "Supplì, olive ascolane e verdure in pastella.",
+      "descrizione_completa": "Supplì, olive ascolane e verdure in pastella.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mixed fry",
+          "descrizione": "Supplì, stuffed olives and battered vegetables.",
+          "descrizione_completa": "Supplì, stuffed olives and battered vegetables."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "gyoza-di-maiale-6-pz",
+      "nome": "Gyoza di maiale (6 pz)",
+      "categoria": "asiatico",
+      "prezzo_centesimi": 600,
+      "descrizione": "Ravioli alla piastra con salsa di soia.",
+      "descrizione_completa": "Ravioli alla piastra con salsa di soia.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pork gyoza (6 pcs)",
+          "descrizione": "Pan-fried dumplings with soy sauce.",
+          "descrizione_completa": "Pan-fried dumplings with soy sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "noodles-al-pollo",
+      "nome": "Noodles al pollo",
+      "categoria": "asiatico",
+      "prezzo_centesimi": 800,
+      "descrizione": "Noodles saltati con pollo e verdure.",
+      "descrizione_completa": "Noodles saltati con pollo e verdure.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Chicken noodles",
+          "descrizione": "Stir-fried noodles with chicken and vegetables.",
+          "descrizione_completa": "Stir-fried noodles with chicken and vegetables."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bao-al-maiale",
+      "nome": "Bao al maiale",
+      "categoria": "asiatico",
+      "prezzo_centesimi": 550,
+      "descrizione": "Panino al vapore con maiale e salsa.",
+      "descrizione_completa": "Panino al vapore con maiale e salsa.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pork bao",
+          "descrizione": "Steamed bun with pork and sauce.",
+          "descrizione_completa": "Steamed bun with pork and sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kebab-in-piadina",
+      "nome": "Kebab in piadina",
+      "categoria": "kebab",
+      "prezzo_centesimi": 600,
+      "descrizione": "Carne, insalata, cipolla e salsa yogurt.",
+      "descrizione_completa": "Carne, insalata, cipolla e salsa yogurt.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Kebab in flatbread",
+          "descrizione": "Meat, salad, onion and yogurt sauce.",
+          "descrizione_completa": "Meat, salad, onion and yogurt sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kebab-nel-panino",
+      "nome": "Kebab nel panino",
+      "categoria": "kebab",
+      "prezzo_centesimi": 600,
+      "descrizione": "Carne, verdure e salsa nel pane turco.",
+      "descrizione_completa": "Carne, verdure e salsa nel pane turco.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Kebab in a bun",
+          "descrizione": "Meat, vegetables and sauce in Turkish bread.",
+          "descrizione_completa": "Meat, vegetables and sauce in Turkish bread."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kebab-box-con-patatine",
+      "nome": "Kebab box con patatine",
+      "categoria": "kebab",
+      "prezzo_centesimi": 800,
+      "descrizione": "Carne, patatine, insalata e salsa.",
+      "descrizione_completa": "Carne, patatine, insalata e salsa.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Kebab box with fries",
+          "descrizione": "Meat, fries, salad and sauce.",
+          "descrizione_completa": "Meat, fries, salad and sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "piatto-del-giorno",
+      "nome": "Piatto del giorno",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 800,
+      "descrizione": "Primo o secondo del giorno con contorno.",
+      "descrizione_completa": "Primo o secondo del giorno con contorno.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Dish of the day",
+          "descrizione": "Main dish of the day with a side.",
+          "descrizione_completa": "Main dish of the day with a side."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "menu-ufficio",
+      "nome": "Menu ufficio",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 1000,
+      "descrizione": "Primo, contorno, acqua e caffe'.",
+      "descrizione_completa": "Primo, contorno, acqua e caffe'.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Office menu",
+          "descrizione": "Pasta, side, water and coffee.",
+          "descrizione_completa": "Pasta, side, water and coffee."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalatona-completa",
+      "nome": "Insalatona completa",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 700,
+      "descrizione": "Insalata, tonno, mozzarella, uova e verdure.",
+      "descrizione_completa": "Insalata, tonno, mozzarella, uova e verdure.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Large mixed salad",
+          "descrizione": "Salad, tuna, mozzarella, eggs and vegetables.",
+          "descrizione_completa": "Salad, tuna, mozzarella, eggs and vegetables."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "poke-al-salmone",
+      "nome": "Poke al salmone",
+      "categoria": "bowl-poke",
+      "prezzo_centesimi": 1100,
+      "descrizione": "Riso, salmone, avocado, edamame e sesamo.",
+      "descrizione_completa": "Riso, salmone, avocado, edamame e sesamo.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Salmon poke",
+          "descrizione": "Rice, salmon, avocado, edamame and sesame.",
+          "descrizione_completa": "Rice, salmon, avocado, edamame and sesame."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bowl-pollo-e-verdure",
+      "nome": "Bowl pollo e verdure",
+      "categoria": "bowl-poke",
+      "prezzo_centesimi": 950,
+      "descrizione": "Riso, pollo, verdure e salsa leggera.",
+      "descrizione_completa": "Riso, pollo, verdure e salsa leggera.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Chicken and vegetable bowl",
+          "descrizione": "Rice, chicken, vegetables and light sauce.",
+          "descrizione_completa": "Rice, chicken, vegetables and light sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bowl-vegetariana",
+      "nome": "Bowl vegetariana",
+      "categoria": "bowl-poke",
+      "prezzo_centesimi": 900,
+      "descrizione": "Riso, ceci, verdure e hummus.",
+      "descrizione_completa": "Riso, ceci, verdure e hummus.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Vegetarian bowl",
+          "descrizione": "Rice, chickpeas, vegetables and hummus.",
+          "descrizione_completa": "Rice, chickpeas, vegetables and hummus."
+        }
+      }
+    }
+  ]
 }
