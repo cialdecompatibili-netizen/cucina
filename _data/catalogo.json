@@ -586,7 +586,7 @@
       "prezzo_centesimi": 1000,
       "descrizione": "Primo, contorno, acqua e caffe'.",
       "descrizione_completa": "Primo, contorno, acqua e caffe'.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/menu-ufficio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -605,7 +605,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Insalata, tonno, mozzarella, uova e verdure.",
       "descrizione_completa": "Insalata, tonno, mozzarella, uova e verdure.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/insalatona-completa.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -624,7 +624,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Riso, salmone, avocado, edamame e sesamo.",
       "descrizione_completa": "Riso, salmone, avocado, edamame e sesamo.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/poke-al-salmone.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -643,7 +643,7 @@
       "prezzo_centesimi": 950,
       "descrizione": "Riso, pollo, verdure e salsa leggera.",
       "descrizione_completa": "Riso, pollo, verdure e salsa leggera.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bowl-pollo-e-verdure.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -662,7 +662,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Riso, ceci, verdure e hummus.",
       "descrizione_completa": "Riso, ceci, verdure e hummus.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bowl-vegetariana.webp",
       "icona": "",
       "visibile": true,
       "tr": {
