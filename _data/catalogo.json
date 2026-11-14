@@ -110,6 +110,16 @@
           "nome": "Fresh pasta"
         }
       }
+    },
+    {
+      "nome": "Dolci",
+      "id": "dolci",
+      "icona": "🍰",
+      "tr": {
+        "en": {
+          "nome": "Desserts"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -756,6 +766,82 @@
           "nome": "Potato gnocchi",
           "descrizione": "Fresh, soft potato gnocchi, ready in minutes with your favourite sauce.",
           "descrizione_completa": "Fresh potato gnocchi, made daily and delivered ready to cook.\nThey are done when they float: lovely with tomato and basil, butter and sage or cheese sauces."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tiramisu-monoporzione",
+      "nome": "Tiramisù monoporzione",
+      "categoria": "dolci",
+      "prezzo_centesimi": 450,
+      "descrizione": "Tiramisù classico al cucchiaio, con savoiardi, caffè e crema al mascarpone.",
+      "descrizione_completa": "Tiramisù classico in monoporzione: savoiardi inzuppati nel caffè, crema al mascarpone e cacao amaro in superficie.\nSi prepara in anticipo e arriva fresco, pronto da mangiare.",
+      "immagine": "assets/images/prodotti/tiramisu-monoporzione.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Single-serve tiramisu",
+          "descrizione": "Classic spoon tiramisu with ladyfingers, coffee and mascarpone cream.",
+          "descrizione_completa": "Classic single-serve tiramisu: ladyfingers soaked in coffee, mascarpone cream and bitter cocoa on top.\nMade ahead and delivered fresh, ready to eat."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panna-cotta-frutti-di-bosco",
+      "nome": "Panna cotta ai frutti di bosco",
+      "categoria": "dolci",
+      "prezzo_centesimi": 400,
+      "descrizione": "Panna cotta morbida con coulis di frutti di bosco, in vasetto.",
+      "descrizione_completa": "Panna cotta morbida servita in vasetto, con coulis di frutti di bosco.\nSi prepara il giorno prima e arriva fresca, pronta da gustare.",
+      "immagine": "assets/images/prodotti/panna-cotta-frutti-di-bosco.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mixed berry panna cotta",
+          "descrizione": "Soft panna cotta with a mixed berry coulis, served in a jar.",
+          "descrizione_completa": "Soft panna cotta served in a jar, topped with a mixed berry coulis.\nMade the day before and delivered fresh, ready to enjoy."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "crostata-di-marmellata",
+      "nome": "Crostata di marmellata",
+      "categoria": "dolci",
+      "prezzo_centesimi": 350,
+      "descrizione": "Fetta di crostata di frolla con marmellata, da colazione o merenda.",
+      "descrizione_completa": "Crostata di pasta frolla con ripieno di marmellata, venduta a fetta.\nOttima a colazione, a merenda o a fine pasto.",
+      "immagine": "assets/images/prodotti/crostata-di-marmellata.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Jam tart",
+          "descrizione": "A slice of shortcrust jam tart, perfect for breakfast or a snack.",
+          "descrizione_completa": "Shortcrust tart filled with jam, sold by the slice.\nGreat for breakfast, an afternoon snack or after a meal."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cheesecake-frutti-di-bosco",
+      "nome": "Cheesecake ai frutti di bosco",
+      "categoria": "dolci",
+      "prezzo_centesimi": 450,
+      "descrizione": "Cheesecake fredda in monoporzione, base di biscotto e frutti di bosco.",
+      "descrizione_completa": "Cheesecake fredda in monoporzione, con base di biscotto, crema al formaggio e topping di frutti di bosco.\nNon richiede forno e arriva fresca.",
+      "immagine": "assets/images/prodotti/cheesecake-frutti-di-bosco.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mixed berry cheesecake",
+          "descrizione": "Single-serve chilled cheesecake with a biscuit base and mixed berries.",
+          "descrizione_completa": "Single-serve chilled cheesecake with a biscuit base, cream cheese filling and a mixed berry topping.\nNo oven needed, delivered fresh."
         }
       }
     }
