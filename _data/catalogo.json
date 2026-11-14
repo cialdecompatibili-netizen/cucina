@@ -100,6 +100,16 @@
           "nome": "Bowls and poke"
         }
       }
+    },
+    {
+      "nome": "Pasta fresca",
+      "id": "pasta-fresca",
+      "icona": "🍝",
+      "tr": {
+        "en": {
+          "nome": "Fresh pasta"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -670,6 +680,82 @@
           "nome": "Vegetarian bowl",
           "descrizione": "Rice, chickpeas, vegetables and hummus.",
           "descrizione_completa": "Rice, chickpeas, vegetables and hummus."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ravioli-ricotta-e-spinaci",
+      "nome": "Ravioli ricotta e spinaci",
+      "categoria": "pasta-fresca",
+      "prezzo_centesimi": 650,
+      "descrizione": "Pasta fresca all'uovo ripiena di ricotta e spinaci, da cuocere a casa in pochi minuti.",
+      "descrizione_completa": "Ravioli di pasta fresca all'uovo con ripieno di ricotta e spinaci, preparati a mano e consegnati freschi.\nSi cuociono in acqua salata in pochi minuti e stanno bene con burro e salvia o con un sugo leggero.",
+      "immagine": "assets/images/prodotti/ravioli-ricotta-e-spinaci.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ricotta and spinach ravioli",
+          "descrizione": "Fresh egg pasta filled with ricotta and spinach, ready to cook at home in a few minutes.",
+          "descrizione_completa": "Fresh egg pasta ravioli filled with ricotta and spinach, handmade and delivered fresh.\nCook them in salted water in a few minutes; lovely with butter and sage or a light sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tortellini-di-carne",
+      "nome": "Tortellini di carne",
+      "categoria": "pasta-fresca",
+      "prezzo_centesimi": 750,
+      "descrizione": "Tortellini di pasta fresca con ripieno di carne, ottimi in brodo o con panna.",
+      "descrizione_completa": "Tortellini di pasta fresca all'uovo con ripieno di carne, chiusi a mano e consegnati freschi.\nBuoni in brodo, come nella tradizione, oppure asciutti con un sugo di panna o di ragu'.",
+      "immagine": "assets/images/prodotti/tortellini-di-carne.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Meat tortellini",
+          "descrizione": "Fresh pasta tortellini with a meat filling, great in broth or with cream sauce.",
+          "descrizione_completa": "Fresh egg pasta tortellini with a meat filling, closed by hand and delivered fresh.\nGreat in broth, as tradition goes, or served dry with a cream or ragu sauce."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tagliatelle-all-uovo",
+      "nome": "Tagliatelle all'uovo",
+      "categoria": "pasta-fresca",
+      "prezzo_centesimi": 550,
+      "descrizione": "Tagliatelle di pasta fresca all'uovo, tirate al mattarello, pronte in pochi minuti.",
+      "descrizione_completa": "Tagliatelle di pasta fresca all'uovo, tirate a mano e tagliate larghe.\nSi cuociono in pochi minuti e tengono bene il ragu' e i sughi di carne.",
+      "immagine": "assets/images/prodotti/tagliatelle-all-uovo.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Egg tagliatelle",
+          "descrizione": "Fresh egg pasta tagliatelle, rolled by hand and ready in a few minutes.",
+          "descrizione_completa": "Fresh egg pasta tagliatelle, rolled by hand and cut wide.\nThey cook in a few minutes and hold ragu and meat sauces well."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "gnocchi-di-patate",
+      "nome": "Gnocchi di patate",
+      "categoria": "pasta-fresca",
+      "prezzo_centesimi": 550,
+      "descrizione": "Gnocchi di patate freschi, morbidi, pronti in pochi minuti con il sugo che preferisci.",
+      "descrizione_completa": "Gnocchi di patate freschi, preparati ogni giorno e consegnati pronti da cuocere.\nSono pronti quando salgono a galla: buoni con pomodoro e basilico, burro e salvia o formaggi.",
+      "immagine": "assets/images/prodotti/gnocchi-di-patate.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Potato gnocchi",
+          "descrizione": "Fresh, soft potato gnocchi, ready in minutes with your favourite sauce.",
+          "descrizione_completa": "Fresh potato gnocchi, made daily and delivered ready to cook.\nThey are done when they float: lovely with tomato and basil, butter and sage or cheese sauces."
         }
       }
     }
