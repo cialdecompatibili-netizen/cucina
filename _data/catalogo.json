@@ -3327,7 +3327,7 @@
    "prezzo_centesimi": 2400,
    "descrizione": "Due pizze margherita, due bibite e un dolce.",
    "descrizione_completa": "Due pizze margherita, due bibite e un dolce.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cena-per-due-pizza.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3361,7 +3361,7 @@
    "prezzo_centesimi": 850,
    "descrizione": "Piadina, Prosciutto crudo, Stracciatella e pomodorini gialli.",
    "descrizione_completa": "Piadina, Prosciutto crudo, Stracciatella e pomodorini gialli.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-crudo-stracciatella-e-pomodorini-gialli.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3417,7 +3417,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Piadina, Pollo, Maionese, Lattuga e patate arrosto.",
    "descrizione_completa": "Piadina, Pollo, Maionese, Lattuga e patate arrosto.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-pollo-maionese-lattuga-e-patate-arrosto.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3477,7 +3477,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Piadina, Pollo alla paprika piccante e insalata.",
    "descrizione_completa": "Piadina, Pollo alla paprika piccante e insalata.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-pollo-piccante.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3527,7 +3527,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Piadina, Salsiccia e cipolla.",
    "descrizione_completa": "Piadina, Salsiccia e cipolla.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-salsiccia-e-cipolla.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3577,7 +3577,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Piadina, Hummus e zucchine grigliate.",
    "descrizione_completa": "Piadina, Hummus e zucchine grigliate.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-hummus-e-zucchine-grigliate.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3608,7 +3608,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Piadina, Alici, Misticanza e cipolla.",
    "descrizione_completa": "Piadina, Alici, Misticanza e cipolla.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-alici-misticanza-e-cipolla.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3664,7 +3664,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Piadina, Prosciutto crudo, Squacquerone e rucola.",
    "descrizione_completa": "Piadina, Prosciutto crudo, Squacquerone e rucola.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/rotolo-crudo-squacquerone-e-rucola.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
