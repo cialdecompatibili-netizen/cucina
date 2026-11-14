@@ -3747,7 +3747,7 @@
    "prezzo_centesimi": 1200,
    "descrizione": "Una piadina a scelta, un'insalatina e una bibita.",
    "descrizione_completa": "Una piadina a scelta, un'insalatina e una bibita.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-piadina-insalatina-e-bibita.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3776,7 +3776,7 @@
    "prezzo_centesimi": 600,
    "descrizione": "Piadina piccola e bibita.",
    "descrizione_completa": "Piadina piccola e bibita.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-bimbi-piadina-e-bibita.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4032,7 +4032,7 @@
    "prezzo_centesimi": 850,
    "descrizione": "Pane, Manzo, Cheddar, Insalata e salsa.",
    "descrizione_completa": "Pane, Manzo, Cheddar, Insalata e salsa.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cheeseburger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4097,7 +4097,7 @@
    "prezzo_centesimi": 1100,
    "descrizione": "Pane, Doppio manzo, Doppio cheddar, Insalata e salsa.",
    "descrizione_completa": "Pane, Doppio manzo, Doppio cheddar, Insalata e salsa.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/double-cheeseburger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4162,7 +4162,7 @@
    "prezzo_centesimi": 1000,
    "descrizione": "Pane, Manzo, Uovo, Bacon e cheddar.",
    "descrizione_completa": "Pane, Manzo, Uovo, Bacon e cheddar.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/egg-bacon-cheeseburger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
