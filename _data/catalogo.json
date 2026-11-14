@@ -2825,7 +2825,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Impasto, Pomodoro, Mozzarella e alici.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella e alici.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-napoli.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5989,7 +5989,7 @@
    "prezzo_centesimi": 1300,
    "descrizione": "Riso, Gamberi, Mango, Avocado e edamame.",
    "descrizione_completa": "Riso, Gamberi, Mango, Avocado e edamame.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/poke-gamberi-e-mango.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
