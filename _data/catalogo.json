@@ -111,7 +111,7 @@
       "prezzo_centesimi": 750,
       "descrizione": "Pomodoro, fior di latte e basilico.",
       "descrizione_completa": "Pomodoro, fior di latte e basilico.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pizza-margherita.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -130,7 +130,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Pomodoro, mozzarella e salame piccante.",
       "descrizione_completa": "Pomodoro, mozzarella e salame piccante.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pizza-diavola.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -149,7 +149,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Teglia croccante, il taglio del giorno.",
       "descrizione_completa": "Teglia croccante, il taglio del giorno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pizza-al-taglio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -168,7 +168,7 @@
       "prezzo_centesimi": 650,
       "descrizione": "Prosciutto crudo, squacquerone e rucola.",
       "descrizione_completa": "Prosciutto crudo, squacquerone e rucola.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/piadina-crudo-e-squacquerone.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -187,7 +187,7 @@
       "prezzo_centesimi": 650,
       "descrizione": "Pollo alla griglia e verdure di stagione.",
       "descrizione_completa": "Pollo alla griglia e verdure di stagione.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/piadina-pollo-e-verdure.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -206,7 +206,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Tonno, insalata e pomodoro in un wrap morbido.",
       "descrizione_completa": "Tonno, insalata e pomodoro in un wrap morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/wrap-tonno-e-insalata.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -225,7 +225,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Sfoglia, ragu e besciamella, gratinate al forno.",
       "descrizione_completa": "Sfoglia, ragu e besciamella, gratinate al forno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/lasagne-alla-bolognese.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -244,7 +244,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Pasta, sugo, mozzarella e prosciutto cotto.",
       "descrizione_completa": "Pasta, sugo, mozzarella e prosciutto cotto.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pasta-al-forno.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -263,7 +263,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Ripieni di ricotta e spinaci, con pomodoro.",
       "descrizione_completa": "Ripieni di ricotta e spinaci, con pomodoro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cannelloni-ricotta-e-spinaci.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -282,7 +282,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Manzo, cheddar, insalata e pomodoro.",
       "descrizione_completa": "Manzo, cheddar, insalata e pomodoro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/hamburger-classico.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -301,7 +301,7 @@
       "prezzo_centesimi": 950,
       "descrizione": "Manzo, bacon croccante, cheddar e salsa.",
       "descrizione_completa": "Manzo, bacon croccante, cheddar e salsa.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/hamburger-bacon.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -320,7 +320,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Porzione di patatine croccanti.",
       "descrizione_completa": "Porzione di patatine croccanti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/patatine-fritte.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -339,7 +339,7 @@
       "prezzo_centesimi": 1200,
       "descrizione": "Pollo arrosto intero con le sue patate.",
       "descrizione_completa": "Pollo arrosto intero con le sue patate.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pollo-arrosto-intero.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -358,7 +358,7 @@
       "prezzo_centesimi": 750,
       "descrizione": "Mezzo pollo arrosto e patate al forno.",
       "descrizione_completa": "Mezzo pollo arrosto e patate al forno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/mezzo-pollo-con-patate.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -377,7 +377,7 @@
       "prezzo_centesimi": 650,
       "descrizione": "Due cosce dorate al forno.",
       "descrizione_completa": "Due cosce dorate al forno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cosce-di-pollo-al-forno.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -396,7 +396,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Riso, ragu e mozzarella filante.",
       "descrizione_completa": "Riso, ragu e mozzarella filante.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/suppli-al-telefono.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -415,7 +415,7 @@
       "prezzo_centesimi": 300,
       "descrizione": "Riso, ragu e piselli, panati e fritti.",
       "descrizione_completa": "Riso, ragu e piselli, panati e fritti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/arancini-siciliani.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -434,7 +434,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Supplì, olive ascolane e verdure in pastella.",
       "descrizione_completa": "Supplì, olive ascolane e verdure in pastella.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/fritto-misto.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -453,7 +453,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Ravioli alla piastra con salsa di soia.",
       "descrizione_completa": "Ravioli alla piastra con salsa di soia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gyoza-di-maiale-6-pz.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -472,7 +472,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Noodles saltati con pollo e verdure.",
       "descrizione_completa": "Noodles saltati con pollo e verdure.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/noodles-al-pollo.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -491,7 +491,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Panino al vapore con maiale e salsa.",
       "descrizione_completa": "Panino al vapore con maiale e salsa.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/bao-al-maiale.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -510,7 +510,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Carne, insalata, cipolla e salsa yogurt.",
       "descrizione_completa": "Carne, insalata, cipolla e salsa yogurt.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/kebab-in-piadina.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -529,7 +529,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Carne, verdure e salsa nel pane turco.",
       "descrizione_completa": "Carne, verdure e salsa nel pane turco.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/kebab-nel-panino.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -548,7 +548,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Carne, patatine, insalata e salsa.",
       "descrizione_completa": "Carne, patatine, insalata e salsa.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/kebab-box-con-patatine.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -567,7 +567,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Primo o secondo del giorno con contorno.",
       "descrizione_completa": "Primo o secondo del giorno con contorno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/piatto-del-giorno.webp",
       "icona": "",
       "visibile": true,
       "tr": {
