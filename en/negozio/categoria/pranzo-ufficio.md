@@ -1,9 +1,9 @@
 ---
 layout: negozio-categoria
-title: "Office lunch"
+title: "Work lunch"
 cid: pranzo-ufficio
 permalink: /en/shop/category/office-lunch/
-description: "Office lunch, takeaway and home delivery."
+description: "Work lunch, takeaway and home delivery."
 lang: en
 locale: en
 ref: shop-cat-pranzo-ufficio

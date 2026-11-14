@@ -22,7 +22,7 @@ Appunti del 13 novembre 2026. L'ordine delle 10 categorie e' una valutazione mia
 6. **Fritti e street food** (suppli', arancini, verdure in pastella). Le fritture sono tra i prodotti piu' richiesti sulla costa. Imballo traspirante, altrimenti arrivano molli.
 7. **Cucina asiatica semplice** (gyoza, bao, noodles). Cina e Giappone molto presenti tra i piatti piu' popolari in delivery. Margini alti con pochi prodotti.
 8. **Kebab.** Pizza e kebab in cima agli ordini a Cervia in primavera. Costo di produzione basso.
-9. **Pranzo da ufficio** (piatto del giorno, abbonamenti settimanali). Gli impiegati sono la prima categoria di clienti del delivery. Ordini ripetuti e prevedibili, meno sprechi.
+9. **Pranzo da lavoro** (piatto del giorno, abbonamenti settimanali). Gli impiegati sono la prima categoria di clienti del delivery. Ordini ripetuti e prevedibili, meno sprechi.
 10. **Bowl e poke.** La domanda c'e', ma e' la piu' rischiosa: un esempio di calcolo lascia pochi centesimi di margine dopo commissione, imballi e lavoro, e un operatore ha chiuso un marchio poke perche' il mercato si e' affollato. Solo con prezzi alti o venduto in diretta.
 
 ## Partenza consigliata
