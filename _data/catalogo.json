@@ -2354,7 +2354,22 @@
       "descrizione_completa": "Croccante, caldo, pronto da mangiare con le mani.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2366,7 +2381,22 @@
       "descrizione_completa": "Croccante, caldo, pronto da mangiare con le mani.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Alici in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "pesce"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2378,7 +2408,34 @@
       "descrizione_completa": "Spaghetti, Vongole, Aglio, Prezzemolo e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Spaghetti",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Vongole",
+          "a": [
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2390,7 +2447,22 @@
       "descrizione_completa": "Filetti di baccalà dorati e croccanti.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Baccalà in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "pesce"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2402,7 +2474,30 @@
       "descrizione_completa": "Pasta, Tonno, Pomodoro e olive.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pasta",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Tonno",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Olive",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2414,7 +2509,36 @@
       "descrizione_completa": "Riso cremoso con crema di scampi e gamberi saltati.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Crema di scampi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Fumetto di pesce",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2426,7 +2550,30 @@
       "descrizione_completa": "Spaghetti, Astice, Pomodorini e prezzemolo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Spaghetti",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Astice",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Pomodorini",
+          "a": []
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2438,7 +2585,30 @@
       "descrizione_completa": "Paccheri, Mazzancolle, Pomodorini e prezzemolo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Paccheri",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Mazzancolle",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Pomodorini",
+          "a": []
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2450,7 +2620,30 @@
       "descrizione_completa": "Gamberoni, Pangrattato, Prezzemolo e limone.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Gamberoni",
+          "a": [
+            "crostacei"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pangrattato",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2462,7 +2655,38 @@
       "descrizione_completa": "Frittura mista da dividere in due, con patatine.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Alici in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "pesce"
+          ]
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2474,7 +2698,29 @@
       "descrizione_completa": "Un primo di pesce, una frittura piccola e l'acqua.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Spaghetti con frutti di mare",
+          "a": [
+            "glutine",
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Frittura piccola di calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Acqua",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2486,7 +2732,29 @@
       "descrizione_completa": "Risotto di scampi, frittura e dolce per due persone.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Risotto alla crema di scampi",
+          "a": [
+            "crostacei"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Frittura di calamari e gamberi in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "crostacei",
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Dolce",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2498,7 +2766,56 @@
       "descrizione_completa": "Impasto, Pomodoro, Aglio, Origano e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Origano",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2510,7 +2827,56 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella e alici.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Alici",
+          "a": [
+            "pesce"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2522,7 +2888,66 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella, Prosciutto cotto, Funghi, Carciofini e olive.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Prosciutto cotto",
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "a": []
+        },
+        {
+          "n": "Carciofini",
+          "a": []
+        },
+        {
+          "n": "Olive",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2534,7 +2959,34 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella, Wurstel e patatine fritte.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Wurstel",
+          "a": []
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2546,7 +2998,64 @@
       "descrizione_completa": "Impasto, Mozzarella, Gorgonzola, Parmigiano e provola.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Gorgonzola",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Provola",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2558,7 +3067,54 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella e salsiccia.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salsiccia",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2570,7 +3126,54 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella e verdure grigliate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Verdure grigliate",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2582,7 +3185,54 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella di bufala e basilico.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella di bufala",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2594,7 +3244,54 @@
       "descrizione_completa": "Impasto, Pomodoro, Mozzarella e prosciutto cotto.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Prosciutto cotto",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2606,7 +3303,21 @@
       "descrizione_completa": "Una pizza margherita e una bibita.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pizza margherita (impasto, pomodoro, mozzarella)",
+          "a": [
+            "glutine",
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Bibita 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2618,7 +3329,29 @@
       "descrizione_completa": "Due pizze margherita, due bibite e un dolce.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "2 pizze margherita (impasto, pomodoro, mozzarella)",
+          "a": [
+            "glutine",
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "2 bibite 33 cl",
+          "a": []
+        },
+        {
+          "n": "Tiramisù (savoiardi, mascarpone)",
+          "a": [
+            "glutine",
+            "latte",
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2630,7 +3363,51 @@
       "descrizione_completa": "Piadina, Prosciutto crudo, Stracciatella e pomodorini gialli.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Prosciutto crudo",
+          "a": []
+        },
+        {
+          "n": "Stracciatella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Pomodorini gialli",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2642,7 +3419,55 @@
       "descrizione_completa": "Piadina, Pollo, Maionese, Lattuga e patate arrosto.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Maionese",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Lattuga",
+          "a": []
+        },
+        {
+          "n": "Patate arrosto",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2654,7 +3479,45 @@
       "descrizione_completa": "Piadina, Pollo alla paprika piccante e insalata.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo alla paprika piccante",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2666,7 +3529,45 @@
       "descrizione_completa": "Piadina, Salsiccia e cipolla.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Salsiccia",
+          "a": []
+        },
+        {
+          "n": "Cipolla",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2678,7 +3579,26 @@
       "descrizione_completa": "Piadina, Hummus e zucchine grigliate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Hummus",
+          "a": [
+            "sesamo"
+          ]
+        },
+        {
+          "n": "Zucchine grigliate",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2690,7 +3610,51 @@
       "descrizione_completa": "Piadina, Alici, Misticanza e cipolla.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Alici",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Misticanza",
+          "a": []
+        },
+        {
+          "n": "Cipolla",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2702,7 +3666,51 @@
       "descrizione_completa": "Piadina, Prosciutto crudo, Squacquerone e rucola.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Prosciutto crudo",
+          "a": []
+        },
+        {
+          "n": "Squacquerone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2714,7 +3722,22 @@
       "descrizione_completa": "Piadina calda con crema alle nocciole e cacao.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema alle nocciole e cacao",
+          "a": [
+            "frutta a guscio"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2726,7 +3749,24 @@
       "descrizione_completa": "Una piadina a scelta, un'insalatina e una bibita.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Insalatina",
+          "a": []
+        },
+        {
+          "n": "Bibita 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2738,7 +3778,20 @@
       "descrizione_completa": "Piadina piccola e bibita.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina piccola",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Bibita 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2750,7 +3803,43 @@
       "descrizione_completa": "Melanzane, Pomodoro, Mozzarella, Parmigiano e basilico.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Melanzane",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2762,7 +3851,39 @@
       "descrizione_completa": "Gnocchi al forno con pomodoro e mozzarella filante.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Gnocchi di patate",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2774,7 +3895,45 @@
       "descrizione_completa": "Sfoglia all'uovo, Pesto di basilico, Besciamella e parmigiano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Sfoglia all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pesto di basilico",
+          "a": [
+            "frutta a guscio"
+          ]
+        },
+        {
+          "n": "Besciamella",
+          "a": [
+            "glutine",
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2786,7 +3945,43 @@
       "descrizione_completa": "Sfoglia all'uovo, Verdure, Besciamella e parmigiano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Sfoglia all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Besciamella",
+          "a": [
+            "glutine",
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2798,7 +3993,36 @@
       "descrizione_completa": "Teglia di lasagne per 2-3 persone.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Sfoglia all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ragù",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Besciamella",
+          "a": [
+            "glutine",
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2810,7 +4034,60 @@
       "descrizione_completa": "Pane, Manzo, Cheddar, Insalata e salsa.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Cheddar",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2822,7 +4099,60 @@
       "descrizione_completa": "Pane, Doppio manzo, Doppio cheddar, Insalata e salsa.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Doppio manzo",
+          "a": []
+        },
+        {
+          "n": "Doppio cheddar",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2834,7 +4164,60 @@
       "descrizione_completa": "Pane, Manzo, Uovo, Bacon e cheddar.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Uovo",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Bacon",
+          "a": []
+        },
+        {
+          "n": "Cheddar",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2846,7 +4229,57 @@
       "descrizione_completa": "Pane, Pollo in panatura, Insalata e salsa.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo in panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2858,7 +4291,56 @@
       "descrizione_completa": "Pane, Manzo, Bacon, Cipolla fritta e salsa bbq.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Bacon",
+          "a": []
+        },
+        {
+          "n": "Cipolla fritta",
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2870,7 +4352,52 @@
       "descrizione_completa": "Pane, Burger vegetale, Insalata e pomodoro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Burger vegetale",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2882,7 +4409,44 @@
       "descrizione_completa": "Parti dal panino base e aggiungi gli extra che vuoi.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2894,7 +4458,60 @@
       "descrizione_completa": "Pane, Manzo, Guanciale, Crema all'uovo e pecorino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Guanciale",
+          "a": []
+        },
+        {
+          "n": "Crema all'uovo",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Pecorino",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2906,7 +4523,17 @@
       "descrizione_completa": "Anelli di cipolla croccanti.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Anelli di cipolla in pastella",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2918,7 +4545,25 @@
       "descrizione_completa": "Hamburger classico, patatine e bibita.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Hamburger classico (pane, manzo, cheddar)",
+          "a": [
+            "glutine",
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        },
+        {
+          "n": "Bibita 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2930,7 +4575,21 @@
       "descrizione_completa": "Pollo in panatura e patate al forno.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo in panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2942,7 +4601,18 @@
       "descrizione_completa": "Alette di pollo e spezie.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Alette di pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Spezie",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2954,7 +4624,24 @@
       "descrizione_completa": "Alette di pollo, Patatine fritte e salse.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Alette di pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        },
+        {
+          "n": "Salse (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2966,7 +4653,17 @@
       "descrizione_completa": "Pollo in panatura.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo in panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2978,7 +4675,18 @@
       "descrizione_completa": "Coscia di pollo e patate al forno.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Coscia di pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -2990,7 +4698,14 @@
       "descrizione_completa": "Patate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3002,7 +4717,30 @@
       "descrizione_completa": "Wrap, Pollo, Insalata e salsa.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Wrap",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3014,7 +4752,51 @@
       "descrizione_completa": "Riso, Guanciale, Uovo, Pecorino e panatura.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Guanciale",
+          "a": []
+        },
+        {
+          "n": "Uovo",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Pecorino",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Maionese",
+          "p": 50,
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3026,7 +4808,21 @@
       "descrizione_completa": "Olive ripiene di carne e panatura.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Olive ripiene di carne",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3038,7 +4834,25 @@
       "descrizione_completa": "Patate, Panatura e prezzemolo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3050,7 +4864,23 @@
       "descrizione_completa": "Mozzarella e panatura.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3062,7 +4892,27 @@
       "descrizione_completa": "Stagionale: disponibile in estate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": false,
+      "ingredienti": [
+        {
+          "n": "Fiori di zucca",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Alici",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Pastella",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3074,7 +4924,20 @@
       "descrizione_completa": "Farina di ceci e prezzemolo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Farina di ceci",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3086,7 +4949,14 @@
       "descrizione_completa": "Patate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3098,7 +4968,24 @@
       "descrizione_completa": "Patate, Bacon e cheddar.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Bacon",
+          "a": []
+        },
+        {
+          "n": "Cheddar",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3110,7 +4997,20 @@
       "descrizione_completa": "Involtino e salsa agrodolce.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Involtino (pasta sfoglia, verdure)",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Salsa agrodolce",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3122,7 +5022,48 @@
       "descrizione_completa": "Riso, Prosciutto, Uova, Piselli e salsa di soia.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Prosciutto",
+          "a": []
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Piselli",
+          "a": []
+        },
+        {
+          "n": "Salsa di soia",
+          "a": [
+            "soia"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3134,7 +5075,28 @@
       "descrizione_completa": "Pasta di ravioli, Gamberi e salsa di soia.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pasta di ravioli",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Salsa di soia",
+          "a": [
+            "soia"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3146,7 +5108,40 @@
       "descrizione_completa": "Vermicelli di soia, Verdure e salsa di soia.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Vermicelli di soia",
+          "a": [
+            "soia"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Salsa di soia",
+          "a": [
+            "soia"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3158,7 +5153,17 @@
       "descrizione_completa": "Nuvolette di gamberi.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Nuvolette di gamberi",
+          "a": [
+            "glutine",
+            "crostacei"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3170,7 +5175,52 @@
       "descrizione_completa": "Tagliolini di riso, Gamberi, Uova, Arachidi e salsa di pesce.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Tagliolini di riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Arachidi",
+          "a": [
+            "arachidi"
+          ]
+        },
+        {
+          "n": "Salsa di pesce",
+          "a": [
+            "pesce"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3182,7 +5232,38 @@
       "descrizione_completa": "Pollo, Salsa satay e riso.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Salsa satay (arachidi)",
+          "a": [
+            "arachidi"
+          ]
+        },
+        {
+          "n": "Riso",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3194,7 +5275,48 @@
       "descrizione_completa": "Il brodo arriva in un vasetto separato.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Noodles di grano",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Maiale",
+          "a": []
+        },
+        {
+          "n": "Uovo",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Alga",
+          "a": []
+        },
+        {
+          "n": "Brodo (vasetto separato)",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3206,7 +5328,47 @@
       "descrizione_completa": "Carne, Patate, Insalata e salsa yogurt.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Carne",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3218,7 +5380,49 @@
       "descrizione_completa": "Piadina, Falafel, Insalata e salsa yogurt.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Falafel",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3230,7 +5434,49 @@
       "descrizione_completa": "Falafel, Insalata, Hummus e salsa yogurt.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Falafel",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Hummus",
+          "a": [
+            "sesamo"
+          ]
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3242,7 +5488,25 @@
       "descrizione_completa": "Kebab nel panino, patatine e bibita.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Kebab nel panino (pane, carne, salsa yogurt)",
+          "a": [
+            "glutine",
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        },
+        {
+          "n": "Bibita 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3254,7 +5518,25 @@
       "descrizione_completa": "Due kebab, patatine e due bibite.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "2 kebab nel panino (pane, carne, salsa yogurt)",
+          "a": [
+            "glutine",
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        },
+        {
+          "n": "2 bibite 33 cl",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3266,7 +5548,43 @@
       "descrizione_completa": "Riso basmati, Carne e salsa yogurt.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso basmati",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Carne",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3278,7 +5596,24 @@
       "descrizione_completa": "Ceci, Tahina e limone.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Ceci",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Tahina (sesamo)",
+          "a": [
+            "sesamo"
+          ]
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3290,7 +5625,32 @@
       "descrizione_completa": "Pasta fillo, Pistacchi, Miele e burro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pasta fillo",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pistacchi",
+          "a": [
+            "frutta a guscio"
+          ]
+        },
+        {
+          "n": "Miele",
+          "a": []
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3302,7 +5662,18 @@
       "descrizione_completa": "Pollo arrosto e patate al forno.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo arrosto",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3314,7 +5685,37 @@
       "descrizione_completa": "Insalata, Pollo, Grana, Crostini di pane e salsa caesar.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Insalata",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Grana",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Crostini di pane",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Salsa Caesar (uova, acciughe)",
+          "a": [
+            "uova",
+            "pesce"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3326,7 +5727,21 @@
       "descrizione_completa": "Vitello e salsa tonnata.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Vitello",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Salsa tonnata (tonno, maionese)",
+          "a": [
+            "uova",
+            "pesce"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3338,7 +5753,30 @@
       "descrizione_completa": "Melanzane, Pomodoro, Mozzarella e parmigiano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Melanzane",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3350,7 +5788,14 @@
       "descrizione_completa": "Cinque pranzi per la settimana a prezzo ridotto.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "5 piatti del giorno con contorno",
+          "a": [],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3362,7 +5807,63 @@
       "descrizione_completa": "Riso, Tonno, Salsa piccante, Edamame, Avocado e sesamo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Tonno",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Salsa piccante (maionese)",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Edamame",
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Avocado",
+          "a": []
+        },
+        {
+          "n": "Sesamo",
+          "a": [
+            "sesamo"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3374,7 +5875,55 @@
       "descrizione_completa": "Riso, Pollo, Salsa teriyaki, Verdure e sesamo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Salsa teriyaki",
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Sesamo",
+          "a": [
+            "sesamo"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3386,7 +5935,51 @@
       "descrizione_completa": "Riso, Pesce in panatura, Verdure e salsa.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pesce in panatura",
+          "a": [
+            "glutine",
+            "uova",
+            "pesce"
+          ]
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Salsa",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3398,7 +5991,55 @@
       "descrizione_completa": "Riso, Gamberi, Mango, Avocado e edamame.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Mango",
+          "a": []
+        },
+        {
+          "n": "Avocado",
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "a": [
+            "soia"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3410,7 +6051,34 @@
       "descrizione_completa": "Riso, Hummus, Avocado, Verdure e sesamo.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Hummus",
+          "a": [
+            "sesamo"
+          ]
+        },
+        {
+          "n": "Avocado",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Sesamo",
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3422,7 +6090,43 @@
       "descrizione_completa": "Taglia piccola. Scrivi nelle note proteina e topping che vuoi.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Proteina a scelta (scrivila nelle note)",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3434,7 +6138,43 @@
       "descrizione_completa": "Taglia media. Scrivi nelle note proteina e topping che vuoi.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Proteina a scelta (scrivila nelle note)",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3446,7 +6186,43 @@
       "descrizione_completa": "Taglia grande. Scrivi nelle note proteina e topping che vuoi.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Proteina a scelta (scrivila nelle note)",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3458,7 +6234,58 @@
       "descrizione_completa": "Insalata, Pollo, Grana, Crostini di pane e salsa caesar.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Insalata",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Grana",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Crostini di pane",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Salsa Caesar (uova, acciughe)",
+          "a": [
+            "uova",
+            "pesce"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3470,7 +6297,16 @@
       "descrizione_completa": "Edamame.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Edamame",
+          "a": [
+            "soia"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3482,7 +6318,18 @@
       "descrizione_completa": "Patate dolci e rosmarino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate dolci",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Rosmarino",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3494,7 +6341,20 @@
       "descrizione_completa": "Ceci e tahina.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Ceci",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Tahina (sesamo)",
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3506,7 +6366,18 @@
       "descrizione_completa": "Riso glutinoso e ripieno dolce.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Riso glutinoso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Ripieno dolce",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3518,7 +6389,23 @@
       "descrizione_completa": "Tagliatelle all'uovo e ragù.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Tagliatelle all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ragù",
+          "a": [
+            "sedano"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3530,7 +6417,27 @@
       "descrizione_completa": "Pasta fresca all'uovo, Ricotta e spinaci.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pasta fresca all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ricotta",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Spinaci",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3542,7 +6449,28 @@
       "descrizione_completa": "Carne, Pomodoro, Sedano e carota.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Carne",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Carota",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3554,7 +6482,22 @@
       "descrizione_completa": "Pomodoro, Basilico e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pomodoro",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3566,7 +6509,29 @@
       "descrizione_completa": "Savoiardi, Crema al mascarpone e crema di pistacchio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Savoiardi",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema al mascarpone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Crema di pistacchio",
+          "a": [
+            "frutta a guscio"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3578,7 +6543,27 @@
       "descrizione_completa": "Savoiardi, Caffè e crema al mascarpone.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Savoiardi",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Caffè",
+          "a": []
+        },
+        {
+          "n": "Crema al mascarpone",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3590,7 +6575,29 @@
       "descrizione_completa": "Savoiardi, Crema al mascarpone e crema alle nocciole e cacao.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Savoiardi",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema al mascarpone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Crema alle nocciole e cacao",
+          "a": [
+            "frutta a guscio"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3602,7 +6609,27 @@
       "descrizione_completa": "Savoiardi, Crema al mascarpone e fragole.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Savoiardi",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema al mascarpone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Fragole",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3614,7 +6641,26 @@
       "descrizione_completa": "Cialda croccante, Crema di ricotta e gocce di cioccolato.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cialda croccante",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema di ricotta",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Gocce di cioccolato",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3626,7 +6672,32 @@
       "descrizione_completa": "Cioccolato, Uova, Burro e farina.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cioccolato",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3638,7 +6709,38 @@
       "descrizione_completa": "Cioccolato, Burro, Uova, Farina e noci.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cioccolato",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Noci",
+          "a": [
+            "frutta a guscio"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3650,7 +6752,24 @@
       "descrizione_completa": "Crepes e crema alle nocciole e cacao.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Crepes (farina, uova, latte)",
+          "a": [
+            "glutine",
+            "latte",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema alle nocciole e cacao",
+          "a": [
+            "frutta a guscio"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3662,7 +6781,32 @@
       "descrizione_completa": "Biscotti, Cioccolato, Burro e uova.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Biscotti",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Cioccolato",
+          "a": []
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3674,7 +6818,32 @@
       "descrizione_completa": "Cioccolato, Farina, Uova e burro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cioccolato",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3686,7 +6855,32 @@
       "descrizione_completa": "Spaghetti, Guanciale, Uovo e pecorino romano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Spaghetti",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Guanciale",
+          "a": []
+        },
+        {
+          "n": "Uovo",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Pecorino romano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3698,7 +6892,30 @@
       "descrizione_completa": "Rigatoni, Guanciale, Pomodoro e pecorino romano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Rigatoni",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Guanciale",
+          "a": []
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Pecorino romano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3710,7 +6927,26 @@
       "descrizione_completa": "Mezze maniche, Guanciale e pecorino romano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Mezze maniche",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Guanciale",
+          "a": []
+        },
+        {
+          "n": "Pecorino romano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3722,7 +6958,26 @@
       "descrizione_completa": "Tonnarelli, Pecorino romano e pepe nero.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Tonnarelli",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pecorino romano",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Pepe nero",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3734,7 +6989,30 @@
       "descrizione_completa": "Impasto di pinsa, Pomodoro, Mozzarella e basilico.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto di pinsa",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3746,7 +7024,20 @@
       "descrizione_completa": "Impasto e pollo alla cacciatora.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo alla cacciatora",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3758,7 +7049,26 @@
       "descrizione_completa": "Stagionale: da dicembre ad aprile.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": false,
+      "ingredienti": [
+        {
+          "n": "Carciofi",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Menta",
+          "a": []
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3770,7 +7080,32 @@
       "descrizione_completa": "Vitello, Prosciutto crudo, Salvia, Vino bianco e patate al forno.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Vitello",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Prosciutto crudo",
+          "a": []
+        },
+        {
+          "n": "Salvia",
+          "a": []
+        },
+        {
+          "n": "Vino bianco",
+          "a": [
+            "solfiti"
+          ]
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3782,7 +7117,22 @@
       "descrizione_completa": "Polpette di carne e sugo di pomodoro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Polpette di carne (pane, uova, grana)",
+          "a": [
+            "glutine",
+            "latte",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Sugo di pomodoro",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3794,7 +7144,28 @@
       "descrizione_completa": "Trippa, Pomodoro, Pecorino romano e menta.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Trippa",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Pecorino romano",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Menta",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3806,7 +7177,24 @@
       "descrizione_completa": "Coda di manzo, Pomodoro e sedano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Coda di manzo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3818,7 +7206,22 @@
       "descrizione_completa": "Abbacchio, Patate al forno e rosmarino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Abbacchio",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        },
+        {
+          "n": "Rosmarino",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3830,7 +7233,28 @@
       "descrizione_completa": "Pollo, Pomodoro, Vino bianco e rosmarino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Vino bianco",
+          "a": [
+            "solfiti"
+          ]
+        },
+        {
+          "n": "Rosmarino",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3842,7 +7266,34 @@
       "descrizione_completa": "Semolino, Latte, Burro e parmigiano.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Semolino",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Latte",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3854,7 +7305,20 @@
       "descrizione_completa": "Pane e porchetta.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Porchetta",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3866,7 +7330,33 @@
       "descrizione_completa": "Stagionale: disponibile in estate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": false,
+      "ingredienti": [
+        {
+          "n": "Fiori di zucca",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Alici",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Pastella",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3878,7 +7368,20 @@
       "descrizione_completa": "Ricotta romana e pomodori infornati.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Ricotta romana",
+          "a": [
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodori infornati",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3890,7 +7393,32 @@
       "descrizione_completa": "Cioccolato, Burro, Uova e farina.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cioccolato",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3902,7 +7430,24 @@
       "descrizione_completa": "Maritozzo e panna.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Maritozzo (farina, uova, burro)",
+          "a": [
+            "glutine",
+            "latte",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Panna",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3914,7 +7459,31 @@
       "descrizione_completa": "Vitello, Panatura, Burro e patatine fritte.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Vitello",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Patatine fritte",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3926,7 +7495,30 @@
       "descrizione_completa": "Pollo, Farina, Limone e burro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Pollo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Limone",
+          "a": []
+        },
+        {
+          "n": "Burro",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3938,7 +7530,30 @@
       "descrizione_completa": "Manzo, Vino rosso, Sedano e carota.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Manzo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Vino rosso",
+          "a": [
+            "solfiti"
+          ]
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Carota",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3950,7 +7565,32 @@
       "descrizione_completa": "Piatto della stagione fredda.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Ossobuco di vitello",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Farina",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Vino bianco",
+          "a": [
+            "solfiti"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3962,7 +7602,24 @@
       "descrizione_completa": "Manzo, Rucola e grana.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Manzo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Rucola",
+          "a": []
+        },
+        {
+          "n": "Grana",
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3974,7 +7631,28 @@
       "descrizione_completa": "Coniglio, Pomodoro, Vino bianco e rosmarino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Coniglio",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Vino bianco",
+          "a": [
+            "solfiti"
+          ]
+        },
+        {
+          "n": "Rosmarino",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3986,7 +7664,30 @@
       "descrizione_completa": "Fagioli, Pasta, Sedano e pomodoro.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Fagioli",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pasta",
+          "a": [
+            "glutine"
+          ]
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -3998,7 +7699,24 @@
       "descrizione_completa": "Verdure di stagione, Sedano e patate.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Verdure di stagione",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Patate",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4010,7 +7728,18 @@
       "descrizione_completa": "Patate e rosmarino.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Rosmarino",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4022,7 +7751,22 @@
       "descrizione_completa": "Cicoria, Aglio e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Cicoria",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4034,7 +7778,18 @@
       "descrizione_completa": "Verdure di stagione e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Verdure di stagione",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4046,7 +7801,22 @@
       "descrizione_completa": "Insalata, Pomodoro e carote.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Insalata",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Carote",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4058,7 +7828,22 @@
       "descrizione_completa": "Fagioli, Pomodoro e salvia.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Fagioli",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Salvia",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4070,7 +7855,26 @@
       "descrizione_completa": "Broccoletti, Aglio, Peperoncino e olio.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Broccoletti",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Peperoncino",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4082,7 +7886,28 @@
       "descrizione_completa": "Scarola, Olive, Capperi e acciughe.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Scarola",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Olive",
+          "a": []
+        },
+        {
+          "n": "Capperi",
+          "a": []
+        },
+        {
+          "n": "Acciughe",
+          "a": [
+            "pesce"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -4094,7 +7919,28 @@
       "descrizione_completa": "Stagionali: inverno.",
       "immagine": "",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "ingredienti": [
+        {
+          "n": "Puntarelle",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Acciughe",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Aglio",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",

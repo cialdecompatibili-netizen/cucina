@@ -1,0 +1,152 @@
+{
+ "_nota": "NON caricati: servono licenza alcolici e ok Comune (vedi IDEE_MENU_PROFITTO.md sez. 32). Prima creare le categorie birre, vini, amari (genitore bevande) con pagine IT/EN, poi prodotto.py --lista e aggiungere il campo allergeni nel catalogo.",
+ "prodotti": [
+  {
+   "nome": "Peroni 33 cl",
+   "categoria": "birre",
+   "prezzo": 2.5,
+   "desc": "Peroni 33 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Moretti 33 cl",
+   "categoria": "birre",
+   "prezzo": 2.5,
+   "desc": "Moretti 33 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Heineken 33 cl",
+   "categoria": "birre",
+   "prezzo": 3,
+   "desc": "Heineken 33 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Ichnusa 33 cl",
+   "categoria": "birre",
+   "prezzo": 3,
+   "desc": "Ichnusa 33 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Peroni 66 cl",
+   "categoria": "birre",
+   "prezzo": 4.5,
+   "desc": "Peroni 66 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Moretti 66 cl",
+   "categoria": "birre",
+   "prezzo": 4.5,
+   "desc": "Moretti 66 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Peroni senza glutine 33 cl",
+   "categoria": "birre",
+   "prezzo": 3.5,
+   "desc": "Peroni senza glutine 33 cl.",
+   "allergeni": []
+  },
+  {
+   "nome": "Birra analcolica 33 cl",
+   "categoria": "birre",
+   "prezzo": 3,
+   "desc": "Birra analcolica 33 cl.",
+   "allergeni": [
+    "glutine"
+   ]
+  },
+  {
+   "nome": "Vino della casa rosso 75 cl",
+   "categoria": "vini",
+   "prezzo": 10,
+   "desc": "Vino della casa rosso 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Vino della casa bianco 75 cl",
+   "categoria": "vini",
+   "prezzo": 10,
+   "desc": "Vino della casa bianco 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Frascati DOC 75 cl",
+   "categoria": "vini",
+   "prezzo": 14,
+   "desc": "Frascati DOC 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Est! Est!! Est!!! di Montefiascone 75 cl",
+   "categoria": "vini",
+   "prezzo": 12,
+   "desc": "Est! Est!! Est!!! di Montefiascone 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Cesanese del Piglio 75 cl",
+   "categoria": "vini",
+   "prezzo": 16,
+   "desc": "Cesanese del Piglio 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Chianti 75 cl",
+   "categoria": "vini",
+   "prezzo": 18,
+   "desc": "Chianti 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Prosecco 75 cl",
+   "categoria": "vini",
+   "prezzo": 11,
+   "desc": "Prosecco 75 cl.",
+   "allergeni": [
+    "solfiti"
+   ]
+  },
+  {
+   "nome": "Limoncello",
+   "categoria": "amari",
+   "prezzo": 3,
+   "desc": "Limoncello.",
+   "allergeni": []
+  },
+  {
+   "nome": "Amaro",
+   "categoria": "amari",
+   "prezzo": 3,
+   "desc": "Amaro.",
+   "allergeni": []
+  }
+ ]
+}

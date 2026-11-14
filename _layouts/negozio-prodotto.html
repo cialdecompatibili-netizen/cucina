@@ -55,7 +55,7 @@ PUNTI CRITICI
 {%- endfor -%}
 </fieldset>
 {%- endif -%}
-<label style="display:block"><span>Note per la cucina (facoltative)</span><textarea class="nz-nota" maxlength="140" placeholder="Es. ben cotto, salsa a parte"></textarea></label>
+{%- if nz_p.ingredienti or nz_p.extra -%}<label style="display:block"><span>Note per la cucina (facoltative)</span><textarea class="nz-nota" maxlength="140" placeholder="Es. ben cotto, salsa a parte"></textarea></label>{%- endif -%}
 <p class="nz-all-box"><strong>Allergeni presenti:</strong> <span class="nz-all-live">{% if nz_all_l.size > 0 %}{{ nz_all_l | join: ', ' }}{% else %}nessuno dichiarato{% endif %}</span><br><small>Indicativi: se hai un'allergia o un'intolleranza scrivilo nelle note o contattaci prima di ordinare. Possibili tracce per contaminazione in cucina.</small></p>
 </div>
 {%- endif -%}
