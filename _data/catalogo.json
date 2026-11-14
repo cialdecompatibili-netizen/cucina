@@ -150,7 +150,54 @@
           "descrizione": "Tomato, mozzarella and basil.",
           "descrizione_completa": "Tomato, mozzarella and basil."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Fior di latte",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Basilico",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -169,7 +216,54 @@
           "descrizione": "Tomato, mozzarella and spicy salami.",
           "descrizione_completa": "Tomato, mozzarella and spicy salami."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -188,7 +282,50 @@
           "descrizione": "Crispy pan pizza, the slice of the day.",
           "descrizione_completa": "Crispy pan pizza, the slice of the day."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Impasto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Mozzarella extra",
+          "p": 100,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salame piccante",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Funghi",
+          "p": 80,
+          "a": []
+        },
+        {
+          "n": "Prosciutto cotto",
+          "p": 100,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -207,7 +344,51 @@
           "descrizione": "Cured ham, soft cheese and rocket.",
           "descrizione_completa": "Cured ham, soft cheese and rocket."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Prosciutto crudo",
+          "a": []
+        },
+        {
+          "n": "Squacquerone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -226,7 +407,45 @@
           "descrizione": "Grilled chicken and seasonal vegetables.",
           "descrizione_completa": "Grilled chicken and seasonal vegetables."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo alla griglia",
+          "a": []
+        },
+        {
+          "n": "Verdure di stagione",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -245,7 +464,51 @@
           "descrizione": "Tuna, salad and tomato in a soft wrap.",
           "descrizione_completa": "Tuna, salad and tomato in a soft wrap."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Wrap",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Tonno",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Formaggio extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Rucola",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -264,7 +527,45 @@
           "descrizione": "Pasta sheets, meat ragu and bechamel, baked.",
           "descrizione_completa": "Pasta sheets, meat ragu and bechamel, baked."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Sfoglia all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ragu",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Besciamella",
+          "a": [
+            "glutine",
+            "latte"
+          ]
+        },
+        {
+          "n": "Parmigiano",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -283,7 +584,39 @@
           "descrizione": "Pasta with tomato sauce, mozzarella and ham.",
           "descrizione_completa": "Pasta with tomato sauce, mozzarella and ham."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Sugo",
+          "a": []
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Prosciutto cotto",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -302,7 +635,39 @@
           "descrizione": "Filled with ricotta and spinach, in tomato sauce.",
           "descrizione_completa": "Filled with ricotta and spinach, in tomato sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ricotta",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Spinaci",
+          "a": []
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Parmigiano extra",
+          "p": 50,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -321,7 +686,58 @@
           "descrizione": "Beef, cheddar, lettuce and tomato.",
           "descrizione_completa": "Beef, cheddar, lettuce and tomato."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Cheddar",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Pomodoro",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -340,7 +756,60 @@
           "descrizione": "Beef, crispy bacon, cheddar and sauce.",
           "descrizione_completa": "Beef, crispy bacon, cheddar and sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Manzo",
+          "a": []
+        },
+        {
+          "n": "Bacon",
+          "a": []
+        },
+        {
+          "n": "Cheddar",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Salsa (maionese)",
+          "a": [
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Bacon",
+          "p": 100,
+          "a": []
+        },
+        {
+          "n": "Cheddar extra",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cipolla caramellata",
+          "p": 50,
+          "a": []
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -359,7 +828,14 @@
           "descrizione": "A portion of crispy fries.",
           "descrizione_completa": "A portion of crispy fries."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Patate",
+          "a": [],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -378,7 +854,18 @@
           "descrizione": "Whole roast chicken with potatoes.",
           "descrizione_completa": "Whole roast chicken with potatoes."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pollo arrosto",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -397,7 +884,18 @@
           "descrizione": "Half roast chicken with oven potatoes.",
           "descrizione_completa": "Half roast chicken with oven potatoes."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pollo arrosto",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patate al forno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -416,7 +914,14 @@
           "descrizione": "Two golden oven-baked thighs.",
           "descrizione_completa": "Two golden oven-baked thighs."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Cosce di pollo",
+          "a": [],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -435,7 +940,46 @@
           "descrizione": "Rice, ragu and stretchy mozzarella.",
           "descrizione_completa": "Rice, ragu and stretchy mozzarella."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Ragu",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Maionese",
+          "p": 50,
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -454,7 +998,44 @@
           "descrizione": "Rice, ragu and peas, breaded and fried.",
           "descrizione_completa": "Rice, ragu and peas, breaded and fried."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Ragu",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Piselli",
+          "a": []
+        },
+        {
+          "n": "Panatura",
+          "a": [
+            "glutine"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Maionese",
+          "p": 50,
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -473,7 +1054,39 @@
           "descrizione": "Supplì, stuffed olives and battered vegetables.",
           "descrizione_completa": "Supplì, stuffed olives and battered vegetables."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Suppli",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Olive ascolane",
+          "a": []
+        },
+        {
+          "n": "Verdure in pastella",
+          "a": [
+            "glutine",
+            "uova"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Maionese",
+          "p": 50,
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Salsa BBQ",
+          "p": 50,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -492,7 +1105,36 @@
           "descrizione": "Pan-fried dumplings with soy sauce.",
           "descrizione_completa": "Pan-fried dumplings with soy sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta ripiena di maiale",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Salsa di soia",
+          "a": [
+            "soia"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -511,7 +1153,38 @@
           "descrizione": "Stir-fried noodles with chicken and vegetables.",
           "descrizione_completa": "Stir-fried noodles with chicken and vegetables."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Noodles",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -530,7 +1203,38 @@
           "descrizione": "Steamed bun with pork and sauce.",
           "descrizione_completa": "Steamed bun with pork and sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pane bao",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Maiale",
+          "a": []
+        },
+        {
+          "n": "Salsa",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Salsa di soia",
+          "p": 30,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -549,7 +1253,53 @@
           "descrizione": "Meat, salad, onion and yogurt sauce.",
           "descrizione_completa": "Meat, salad, onion and yogurt sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Piadina",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Carne",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Cipolla",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -568,7 +1318,49 @@
           "descrizione": "Meat, vegetables and sauce in Turkish bread.",
           "descrizione_completa": "Meat, vegetables and sauce in Turkish bread."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pane turco",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Carne",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -587,7 +1379,47 @@
           "descrizione": "Meat, fries, salad and sauce.",
           "descrizione_completa": "Meat, fries, salad and sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Carne",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Patatine",
+          "a": []
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa yogurt",
+          "a": [
+            "latte"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Carne doppia",
+          "p": 250,
+          "a": []
+        },
+        {
+          "n": "Salsa piccante",
+          "p": 30,
+          "a": []
+        },
+        {
+          "n": "Formaggio",
+          "p": 80,
+          "a": [
+            "latte"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -606,7 +1438,18 @@
           "descrizione": "Main dish of the day with a side.",
           "descrizione_completa": "Main dish of the day with a side."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Piatto del giorno",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Contorno",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -625,7 +1468,26 @@
           "descrizione": "Pasta, side, water and coffee.",
           "descrizione_completa": "Pasta, side, water and coffee."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Primo",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Contorno",
+          "a": []
+        },
+        {
+          "n": "Acqua",
+          "a": []
+        },
+        {
+          "n": "Caffe",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -644,7 +1506,36 @@
           "descrizione": "Salad, tuna, mozzarella, eggs and vegetables.",
           "descrizione_completa": "Salad, tuna, mozzarella, eggs and vegetables."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Insalata",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Tonno",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Mozzarella",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Uova",
+          "a": [
+            "uova"
+          ]
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -663,7 +1554,57 @@
           "descrizione": "Rice, salmon, avocado, edamame and sesame.",
           "descrizione_completa": "Rice, salmon, avocado, edamame and sesame."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Salmone",
+          "a": [
+            "pesce"
+          ]
+        },
+        {
+          "n": "Avocado",
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "a": [
+            "sesamo"
+          ]
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -682,7 +1623,47 @@
           "descrizione": "Rice, chicken, vegetables and light sauce.",
           "descrizione_completa": "Rice, chicken, vegetables and light sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Pollo",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Salsa leggera",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -701,7 +1682,47 @@
           "descrizione": "Rice, chickpeas, vegetables and hummus.",
           "descrizione_completa": "Rice, chickpeas, vegetables and hummus."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Riso",
+          "a": [],
+          "fisso": true
+        },
+        {
+          "n": "Ceci",
+          "a": []
+        },
+        {
+          "n": "Verdure",
+          "a": []
+        },
+        {
+          "n": "Hummus",
+          "a": []
+        }
+      ],
+      "extra": [
+        {
+          "n": "Avocado extra",
+          "p": 150,
+          "a": []
+        },
+        {
+          "n": "Edamame",
+          "p": 100,
+          "a": [
+            "soia"
+          ]
+        },
+        {
+          "n": "Sesamo",
+          "p": 30,
+          "a": [
+            "sesamo"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -720,7 +1741,27 @@
           "descrizione": "Fresh egg pasta filled with ricotta and spinach, ready to cook at home in a few minutes.",
           "descrizione_completa": "Fresh egg pasta ravioli filled with ricotta and spinach, handmade and delivered fresh.\nCook them in salted water in a few minutes; lovely with butter and sage or a light sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta fresca all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ricotta",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Spinaci",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -739,7 +1780,21 @@
           "descrizione": "Fresh pasta tortellini with a meat filling, great in broth or with cream sauce.",
           "descrizione_completa": "Fresh egg pasta tortellini with a meat filling, closed by hand and delivered fresh.\nGreat in broth, as tradition goes, or served dry with a cream or ragu sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta fresca all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Ripieno di carne",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -758,7 +1813,17 @@
           "descrizione": "Fresh egg pasta tagliatelle, rolled by hand and ready in a few minutes.",
           "descrizione_completa": "Fresh egg pasta tagliatelle, rolled by hand and cut wide.\nThey cook in a few minutes and hold ragu and meat sauces well."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pasta fresca all'uovo",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -777,7 +1842,16 @@
           "descrizione": "Fresh, soft potato gnocchi, ready in minutes with your favourite sauce.",
           "descrizione_completa": "Fresh potato gnocchi, made daily and delivered ready to cook.\nThey are done when they float: lovely with tomato and basil, butter and sage or cheese sauces."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Gnocchi di patate",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -796,7 +1870,31 @@
           "descrizione": "Classic spoon tiramisu with ladyfingers, coffee and mascarpone cream.",
           "descrizione_completa": "Classic single-serve tiramisu: ladyfingers soaked in coffee, mascarpone cream and bitter cocoa on top.\nMade ahead and delivered fresh, ready to eat."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Savoiardi",
+          "a": [
+            "glutine",
+            "uova"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Caffe",
+          "a": []
+        },
+        {
+          "n": "Crema al mascarpone",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Cacao",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -815,7 +1913,20 @@
           "descrizione": "Soft panna cotta with a mixed berry coulis, served in a jar.",
           "descrizione_completa": "Soft panna cotta served in a jar, topped with a mixed berry coulis.\nMade the day before and delivered fresh, ready to enjoy."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Panna",
+          "a": [
+            "latte"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Coulis di frutti di bosco",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -834,7 +1945,20 @@
           "descrizione": "A slice of shortcrust jam tart, perfect for breakfast or a snack.",
           "descrizione_completa": "Shortcrust tart filled with jam, sold by the slice.\nGreat for breakfast, an afternoon snack or after a meal."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Frolla",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Marmellata",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -853,7 +1977,26 @@
           "descrizione": "Single-serve chilled cheesecake with a biscuit base and mixed berries.",
           "descrizione_completa": "Single-serve chilled cheesecake with a biscuit base, cream cheese filling and a mixed berry topping.\nNo oven needed, delivered fresh."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Base di biscotto",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Crema di formaggio",
+          "a": [
+            "latte"
+          ]
+        },
+        {
+          "n": "Frutti di bosco",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -872,7 +2015,30 @@
           "descrizione": "Light fry of squid and prawns, with lemon.",
           "descrizione_completa": "Light fry of squid and prawns, with lemon."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -891,7 +2057,38 @@
           "descrizione": "Fried squid, prawns and small fish, with lemon.",
           "descrizione_completa": "Fried squid, prawns and small fish, with lemon."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Gamberi in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Paranza in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "pesce"
+          ]
+        },
+        {
+          "n": "Limone",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -910,7 +2107,42 @@
           "descrizione": "Octopus, squid and prawns with celery, lemon and olive oil.",
           "descrizione_completa": "Octopus, squid and prawns with celery, lemon and olive oil."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Polpo",
+          "a": [
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Calamari",
+          "a": [
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Sedano",
+          "a": [
+            "sedano"
+          ]
+        },
+        {
+          "n": "Limone",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -929,7 +2161,28 @@
           "descrizione": "Tender octopus with potatoes, parsley and olive oil.",
           "descrizione_completa": "Tender octopus with potatoes, parsley and olive oil."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Polpo",
+          "a": [
+            "molluschi"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Patate",
+          "a": []
+        },
+        {
+          "n": "Prezzemolo",
+          "a": []
+        },
+        {
+          "n": "Olio",
+          "a": []
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -948,7 +2201,40 @@
           "descrizione": "Spaghetti with mussels, clams, prawns and squid.",
           "descrizione_completa": "Spaghetti with mussels, clams, prawns and squid."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Spaghetti",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Cozze",
+          "a": [
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Vongole",
+          "a": [
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Gamberi",
+          "a": [
+            "crostacei"
+          ]
+        },
+        {
+          "n": "Calamari",
+          "a": [
+            "molluschi"
+          ]
+        }
+      ]
     },
     {
       "tipo": "fisico",
@@ -967,7 +2253,35 @@
           "descrizione": "Roll with fried squid, lettuce and sauce.",
           "descrizione_completa": "Roll with fried squid, lettuce and sauce."
         }
-      }
+      },
+      "ingredienti": [
+        {
+          "n": "Pane",
+          "a": [
+            "glutine"
+          ],
+          "fisso": true
+        },
+        {
+          "n": "Calamari in pastella",
+          "a": [
+            "glutine",
+            "uova",
+            "molluschi"
+          ]
+        },
+        {
+          "n": "Insalata",
+          "a": []
+        },
+        {
+          "n": "Salsa tartara",
+          "a": [
+            "uova"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "_nota_pers": "ingredienti[]: {n, a:[allergeni], fisso:true = non rimovibile}; extra[]: {n, p:centesimi, a:[allergeni]}. Allergeni indicativi, da verificare con la cucina."
 }

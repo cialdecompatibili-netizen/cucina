@@ -86,6 +86,30 @@
   Object.keys(prezzi).forEach(function (id) {
     box[id] = { nome: nomi[id], prezzo: prezzi[id], fisico: tipi[id] !== "digitale" };
   });
+  /* PERSONALIZZAZIONE PIATTI: un piatto con ingredienti tolti / extra / nota diventa una riga a se' nel carrello, con chiave "idBase~hash".
+     La definizione (nome con modifiche, prezzo con extra) sta in localStorage "nz_cfg" e si registra qui come un normale prodotto: tutto il resto
+     del file (totali, ordine, anteprima) funziona senza modifiche. */
+  function cfgLeggi() {
+    try {
+      return JSON.parse(localStorage.getItem("nz_cfg")) || {};
+    } catch (e) {
+      return {};
+    }
+  }
+  function cfgRegistra(k, d) {
+    if (prezzi[d.b] === undefined) return;
+    prezzi[k] = d.p;
+    nomi[k] = d.n;
+    tipi[k] = tipi[d.b];
+    info[k] = info[d.b] || { u: "", i: "", e: "" };
+    box[k] = { nome: d.n, prezzo: d.p, fisico: tipi[d.b] !== "digitale" };
+  }
+  (function () {
+    var cf = cfgLeggi();
+    Object.keys(cf).forEach(function (k) {
+      cfgRegistra(k, cf[k]);
+    });
+  })();
   function riepilogo(c) {
     var n = 0;
     var tot = 0;
@@ -208,6 +232,29 @@
     box[c.dataset.id] = { nome: c.dataset.nome, prezzo: prezzo, fisico: c.dataset.tipo !== "digitale" }; // tipo mancante = fisico
     prezzi[c.dataset.id] = prezzo;
     c.querySelector(".nz-prezzo").textContent = euro.format(prezzo / 100);
+  });
+
+  /* allergeni in tempo reale: unione degli allergeni degli ingredienti rimasti e degli extra scelti + prezzo con extra */
+  function persAgg(p) {
+    var set = {}, extra = 0;
+    p.querySelectorAll(".nz-ing,.nz-ext").forEach(function (i) {
+      var on = i.checked || i.disabled;
+      if (!on) return;
+      (i.dataset.a || "").split(",").forEach(function (x) {
+        if (x) set[x] = 1;
+      });
+      if (i.classList.contains("nz-ext")) extra += Number(i.dataset.p) || 0;
+    });
+    var l = Object.keys(set).sort();
+    var o = p.querySelector(".nz-all-live");
+    if (o) o.textContent = l.length ? l.join(", ") : "nessuno dichiarato";
+    var card = p.closest(".nz-box");
+    if (card) card.querySelector(".nz-prezzo").textContent = euro.format((Number(card.dataset.prezzo) + extra) / 100);
+  }
+  radice.querySelectorAll(".nz-pers").forEach(persAgg);
+  radice.addEventListener("change", function (ev) {
+    var p = ev.target.closest && ev.target.closest(".nz-pers");
+    if (p) persAgg(p);
   });
 
   /* ---------- carrello (/carrello/) e stato della pagina ordine (/ordine/) ---------- */
@@ -406,6 +453,37 @@
       var q = parseInt(card.querySelector(".nz-qta").value, 10) || 1;
       q = Math.max(1, Math.min(MAX, q));
       aggId = card.dataset.id;
+      var pers = card.querySelector(".nz-pers");
+      if (pers) {
+        var rem = [], add = [], extra = 0;
+        pers.querySelectorAll(".nz-ing").forEach(function (i) {
+          if (!i.checked) rem.push(i.value);
+        });
+        pers.querySelectorAll(".nz-ext").forEach(function (i) {
+          if (i.checked) {
+            add.push(i.value);
+            extra += Number(i.dataset.p) || 0;
+          }
+        });
+        var nota = ((pers.querySelector(".nz-nota") || {}).value || "").replace(/\s+/g, " ").trim().slice(0, 140);
+        if (rem.length || add.length || nota) {
+          var sig = [rem.sort().join(","), add.sort().join(","), nota].join("|");
+          var h = 0;
+          for (var s = 0; s < sig.length; s++) h = (h * 31 + sig.charCodeAt(s)) | 0;
+          var key = card.dataset.id + "~" + (h >>> 0).toString(36);
+          var parti = [];
+          if (rem.length) parti.push("senza " + rem.join(", senza "));
+          if (add.length) parti.push("+ " + add.join(", + "));
+          if (nota) parti.push("nota: " + nota);
+          var cf = cfgLeggi();
+          cf[key] = { b: card.dataset.id, n: box[card.dataset.id].nome + " (" + parti.join("; ") + ")", p: box[card.dataset.id].prezzo + extra };
+          try {
+            localStorage.setItem("nz_cfg", JSON.stringify(cf));
+          } catch (e) {}
+          cfgRegistra(key, cf[key]);
+          aggId = key;
+        }
+      }
       var prima = c[aggId] || 0;
       c[aggId] = Math.min(MAX, prima + q);
       aggiunta = c[aggId] - prima;
