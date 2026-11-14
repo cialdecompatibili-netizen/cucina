@@ -350,3 +350,44 @@ Con abbattimento certificato si potrebbero aggiungere uramaki e nigiri di salmon
 - Pollo e rosticceria: pagine Glovo (Pollo & Co, La Polleria, Chicken Master), menu PDF di una rosticceria milanese.
 - Dolci: mixerplanet.com e dissapore.com (Just Eat tiramisù e cioccolato).
 - Limiti: molti dati di classifica sono del 2017-2023; i prezzi sono di città diverse e non di Monterotondo.
+
+## 27. CUCINA ROMANA - prezzi da menu veri di trattorie (terza passata, 14/11/2026)
+Prezzi da SALA trovati online (non delivery), usati come riferimento. Fonti: scattidigusto.it (Romanè, Bianca Trattoria), menu PDF Eufrosino, travel365.it (costi medi).
+| Piatto | Prezzo trovato in sala |
+|---|---|
+| Polpette di bollito | 10 € |
+| Trippa alla romana | 9 € |
+| Coda alla vaccinara | 12 € (Romanè), costo medio 18 € (travel365) |
+| Carciofo alla giudia | 5 €, 7 € e 9 € (tre locali) |
+| Saltimbocca alla romana | 15-16 € |
+| Abbacchio allo scottadito | 15 € |
+| Pollo alla cacciatora | 16 € |
+| Melanzane fritte e al forno con fiordilatte | 13 € |
+| Ricotta romana croccante con pomodori infornati | 9 € |
+| Tenerina al cioccolato | 6 € |
+| Maritozzo con la panna | 3,50 € (costo medio) |
+| Primi romani (carbonara, amatriciana, gricia, cacio e pepe) | circa 12 € (costo medio) |
+Stagione: i carciofi sono sul menu da dicembre ad aprile; picco marzo-maggio. Fuori stagione NON venderli.
+Cosa regge il trasporto (IPOTESI mia, da provare): i piatti in umido e al forno (polpette al sugo, coda, trippa, abbacchio, melanzane) migliorano o restano uguali; i piatti "mantecati" (carbonara, cacio e pepe) e i fritti (carciofo alla giudia) peggiorano.
+Da aggiungere alla categoria "Cucina romana" (IPOTESI prezzo, sala meno circa 20-30%):
+- Polpette al sugo (4 pz) - 8,00
+- Trippa alla romana - 8,00
+- Coda alla vaccinara - 12,00
+- Saltimbocca alla romana con patate - 12,00
+- Abbacchio al forno con patate - 13,00
+- Pollo alla cacciatora - 10,00
+- Gnocchi alla romana (semolino, al forno) - 8,00
+- Melanzane alla parmigiana romana - 9,00
+- Porchetta in panino - 6,00
+- Fiori di zucca ripieni (2 pz, stagione) - 4,50
+- Carciofi alla romana (dic-apr) - 6,00
+- Ricotta romana con pomodori infornati - 7,00
+- Tenerina al cioccolato - 5,00
+- Maritozzo con la panna - 3,50
+Civetta: Maritozzo 3,50 € e Porchetta in panino 6 €. Piatto vetrina: Coda alla vaccinara (richiesta, margine in euro, regge il trasporto).
+
+## 28. RESOCONTO: categorie e prodotti (stato al 14/11/2026)
+ONLINE sul sito (12 categorie + Pesce): Pizza, Piadine e wrap, Primi da forno, Hamburger, Pollo e rosticceria, Fritti e street food, Cucina asiatica, Kebab, Pranzo da lavoro, Bowl e poke, Pasta fresca, Dolci, Pesce (6 piatti).
+NUOVE PROPOSTE (non ancora sul sito): Cucina romana (sez. 24 + 27, circa 20 piatti), Sushi cotto (sez. 25, solo dopo ok ASL).
+DA AGGIUNGERE nelle categorie esistenti: circa 110 piatti tra le sezioni 13-23 e 4-6 (pesce). Ordine consigliato: prima le "civette" (Marinara 6 €, Piadina Nutella 4,50 €, Supplì alla carbonara 2,50 €, Cannolo 3,50 €, Menu burger 13 €, Involtini primavera 5 €, Maritozzo 3,50 €), poi i piatti vetrina (Coda alla vaccinara, Risotto di scampi, Poke gamberi e mango).
+Prezzi: tutti IPOTESI, da confermare con i costi reali. Prima di vendere: ASL/IAD (sez. 8).
