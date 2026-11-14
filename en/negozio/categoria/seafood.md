@@ -8,4 +8,5 @@ lang: en
 locale: en
 ref: shop-cat-pesce
 tr: tradotto
+tr_hash: 45h
 ---

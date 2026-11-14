@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-guide
-title: "Guide"
-permalink: /blog/guide/
-categoria: "Guide"
+ref: cat-cucina-romana
+title: "Cucina romana"
+permalink: /blog/cucina-romana/
+categoria: "Cucina romana"
 author_profile: false
 classes: wide
 ---

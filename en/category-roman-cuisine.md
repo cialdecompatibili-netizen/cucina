@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-novita
-title: "News"
-permalink: /en/blog/news/
-categoria: "News"
+ref: cat-cucina-romana
+title: "Roman cuisine"
+permalink: /en/blog/roman-cuisine/
+categoria: "Roman cuisine"
 author_profile: false
 classes: wide
 lang: en
