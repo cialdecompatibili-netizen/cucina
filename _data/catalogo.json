@@ -2886,7 +2886,7 @@
    "prezzo_centesimi": 950,
    "descrizione": "Impasto, Pomodoro, Mozzarella, Prosciutto cotto, Funghi, Carciofini e olive.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella, Prosciutto cotto, Funghi, Carciofini e olive.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-capricciosa.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -2957,7 +2957,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Impasto, Pomodoro, Mozzarella, Wurstel e patatine fritte.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella, Wurstel e patatine fritte.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-wurstel-e-patatine.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -2996,7 +2996,7 @@
    "prezzo_centesimi": 950,
    "descrizione": "Impasto, Mozzarella, Gorgonzola, Parmigiano e provola.",
    "descrizione_completa": "Impasto, Mozzarella, Gorgonzola, Parmigiano e provola.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-quattro-formaggi.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3065,7 +3065,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Impasto, Pomodoro, Mozzarella e salsiccia.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella e salsiccia.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-salsiccia.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3124,7 +3124,7 @@
    "prezzo_centesimi": 850,
    "descrizione": "Impasto, Pomodoro, Mozzarella e verdure grigliate.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella e verdure grigliate.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-ortolana.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3183,7 +3183,7 @@
    "prezzo_centesimi": 1000,
    "descrizione": "Impasto, Pomodoro, Mozzarella di bufala e basilico.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella di bufala e basilico.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pizza-bufala.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3242,7 +3242,7 @@
    "prezzo_centesimi": 850,
    "descrizione": "Impasto, Pomodoro, Mozzarella e prosciutto cotto.",
    "descrizione_completa": "Impasto, Pomodoro, Mozzarella e prosciutto cotto.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/calzone.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -3301,7 +3301,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Una pizza margherita e una bibita.",
    "descrizione_completa": "Una pizza margherita e una bibita.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-pizza-e-bibita.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
