@@ -120,6 +120,16 @@
           "nome": "Desserts"
         }
       }
+    },
+    {
+      "nome": "Pesce",
+      "id": "pesce",
+      "icona": "🦐",
+      "tr": {
+        "en": {
+          "nome": "Seafood"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -842,6 +852,120 @@
           "nome": "Mixed berry cheesecake",
           "descrizione": "Single-serve chilled cheesecake with a biscuit base and mixed berries.",
           "descrizione_completa": "Single-serve chilled cheesecake with a biscuit base, cream cheese filling and a mixed berry topping.\nNo oven needed, delivered fresh."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "calamari-e-gamberi-fritti",
+      "nome": "Calamari e gamberi fritti",
+      "categoria": "pesce",
+      "prezzo_centesimi": 120000,
+      "descrizione": "Frittura leggera di calamari e gamberi, con limone.",
+      "descrizione_completa": "Frittura leggera di calamari e gamberi, con limone.",
+      "immagine": "assets/images/prodotti/calamari-e-gamberi-fritti.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Fried squid and prawns",
+          "descrizione": "Light fry of squid and prawns, with lemon.",
+          "descrizione_completa": "Light fry of squid and prawns, with lemon."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "fritto-misto-di-mare",
+      "nome": "Fritto misto di mare",
+      "categoria": "pesce",
+      "prezzo_centesimi": 130000,
+      "descrizione": "Calamari, gamberi e paranza fritti, con limone.",
+      "descrizione_completa": "Calamari, gamberi e paranza fritti, con limone.",
+      "immagine": "assets/images/prodotti/fritto-misto-di-mare.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mixed seafood fry",
+          "descrizione": "Fried squid, prawns and small fish, with lemon.",
+          "descrizione_completa": "Fried squid, prawns and small fish, with lemon."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-mare",
+      "nome": "Insalata di mare",
+      "categoria": "pesce",
+      "prezzo_centesimi": 110000,
+      "descrizione": "Polpo, calamari e gamberi con sedano, limone e olio.",
+      "descrizione_completa": "Polpo, calamari e gamberi con sedano, limone e olio.",
+      "immagine": "assets/images/prodotti/insalata-di-mare.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Seafood salad",
+          "descrizione": "Octopus, squid and prawns with celery, lemon and olive oil.",
+          "descrizione_completa": "Octopus, squid and prawns with celery, lemon and olive oil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "polpo-e-patate",
+      "nome": "Polpo e patate",
+      "categoria": "pesce",
+      "prezzo_centesimi": 120000,
+      "descrizione": "Polpo tenero con patate, prezzemolo e olio.",
+      "descrizione_completa": "Polpo tenero con patate, prezzemolo e olio.",
+      "immagine": "assets/images/prodotti/polpo-e-patate.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Octopus and potatoes",
+          "descrizione": "Tender octopus with potatoes, parsley and olive oil.",
+          "descrizione_completa": "Tender octopus with potatoes, parsley and olive oil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "spaghetti-allo-scoglio",
+      "nome": "Spaghetti allo scoglio",
+      "categoria": "pesce",
+      "prezzo_centesimi": 130000,
+      "descrizione": "Spaghetti con cozze, vongole, gamberi e calamari.",
+      "descrizione_completa": "Spaghetti con cozze, vongole, gamberi e calamari.",
+      "immagine": "assets/images/prodotti/spaghetti-allo-scoglio.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Seafood spaghetti",
+          "descrizione": "Spaghetti with mussels, clams, prawns and squid.",
+          "descrizione_completa": "Spaghetti with mussels, clams, prawns and squid."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-con-frittura",
+      "nome": "Panino con frittura",
+      "categoria": "pesce",
+      "prezzo_centesimi": 80000,
+      "descrizione": "Panino con calamari fritti, insalata e salsa.",
+      "descrizione_completa": "Panino con calamari fritti, insalata e salsa.",
+      "immagine": "assets/images/prodotti/panino-con-frittura.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Fried squid sandwich",
+          "descrizione": "Roll with fried squid, lettuce and sauce.",
+          "descrizione_completa": "Roll with fried squid, lettuce and sauce."
         }
       }
     }
