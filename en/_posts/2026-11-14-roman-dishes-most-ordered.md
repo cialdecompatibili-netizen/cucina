@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 ref: romana-piu-ordinati
 lang: en
@@ -10,6 +10,7 @@ excerpt: "Supplì, carbonara, amatriciana, artichokes: what Romans order at home
 categories:
   - Roman cuisine
 tr: tradotto
+tr_hash: 2700ba
 ---
 
 When people order food at home, the winners are few, familiar and easy to try. In Roman cuisine the podium is clear, according to the delivery platforms' rankings.
