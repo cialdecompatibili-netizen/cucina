@@ -7,4 +7,6 @@ description: "Spoon and baked desserts, with home delivery."
 lang: en
 locale: en
 ref: shop-cat-dolci
+tr: tradotto
+tr_hash: 45h
 ---
