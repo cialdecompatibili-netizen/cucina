@@ -82,12 +82,12 @@
       }
     },
     {
-      "nome": "Pranzo da ufficio",
+      "nome": "Pranzo da lavoro",
       "id": "pranzo-ufficio",
       "icona": "🍱",
       "tr": {
         "en": {
-          "nome": "Office lunch"
+          "nome": "Work lunch"
         }
       }
     },
