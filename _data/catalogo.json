@@ -8157,7 +8157,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Salame sbriciolona, crema di pecorino, crema di carciofi e melanzane grigliate piccanti.",
       "descrizione_completa": "Salame sbriciolona, crema di pecorino, crema di carciofi e melanzane grigliate piccanti, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-sbriciolona-e-carciofi.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8176,7 +8176,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Porchetta toscana, crema piccantina, verdure grigliate e rucola fresca.",
       "descrizione_completa": "Porchetta toscana, crema piccantina, verdure grigliate e rucola fresca, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-porchetta-e-verdure-grigliate.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8195,7 +8195,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Prosciutto crudo, pecorino semistagionato e crema di tartufo.",
       "descrizione_completa": "Prosciutto crudo, pecorino semistagionato e crema di tartufo, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-crudo-pecorino-e-tartufo.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8214,7 +8214,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Capocollo, stracchino fresco, crema di tartufo e rucola.",
       "descrizione_completa": "Capocollo, stracchino fresco, crema di tartufo e rucola, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-capocollo-e-stracchino.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8233,7 +8233,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Mortadella al tartufo, stracchino, crema di funghi e rucola.",
       "descrizione_completa": "Mortadella al tartufo, stracchino, crema di funghi e rucola, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-mortadella-tartufata-e-funghi.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8252,7 +8252,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Porchetta toscana, gorgonzola e crema di pistacchio.",
       "descrizione_completa": "Porchetta toscana, gorgonzola e crema di pistacchio, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-porchetta-gorgonzola-e-pistacchio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8271,7 +8271,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Mortadella, stracciatella, crema di pistacchio e granella di pistacchio.",
       "descrizione_completa": "Mortadella, stracciatella, crema di pistacchio e granella di pistacchio, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-mortadella-e-stracciatella.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8290,7 +8290,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Pancetta toscana, taleggio e un filo di miele.",
       "descrizione_completa": "Pancetta toscana, taleggio e un filo di miele, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-pancetta-taleggio-e-miele.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8309,7 +8309,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Crudo al tartufo, taleggio, crema di fichi e nocciole.",
       "descrizione_completa": "Prosciutto crudo al tartufo, taleggio, crema di fichi e nocciole, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-crudo-taleggio-e-fichi.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8328,7 +8328,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Salame Milano, gorgonzola dolce, zucchine fritte e rucola.",
       "descrizione_completa": "Salame Milano, gorgonzola dolce, zucchine fritte e rucola, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-salame-gorgonzola-e-zucchine.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8347,7 +8347,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Prosciutto di Parma, mozzarella di bufala, pomodoro e basilico.",
       "descrizione_completa": "Prosciutto di Parma, mozzarella di bufala, pomodoro e basilico, dentro una schiacciata croccante e morbida.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/schiacciata-crudo-di-parma-e-bufala.webp",
       "icona": "",
       "visibile": true,
       "tr": {
