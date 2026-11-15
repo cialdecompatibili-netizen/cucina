@@ -4573,7 +4573,7 @@
    "prezzo_centesimi": 1100,
    "descrizione": "Pollo in panatura e patate al forno.",
    "descrizione_completa": "Pollo in panatura e patate al forno.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cotoletta-di-pollo-con-patate-al-forno.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4599,7 +4599,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Alette di pollo e spezie.",
    "descrizione_completa": "Alette di pollo e spezie.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/alette-di-pollo-5-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4832,7 +4832,7 @@
    "prezzo_centesimi": 500,
    "descrizione": "Patate, Panatura e prezzemolo.",
    "descrizione_completa": "Patate, Panatura e prezzemolo.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/crocchette-di-patate-6-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4862,7 +4862,7 @@
    "prezzo_centesimi": 550,
    "descrizione": "Mozzarella e panatura.",
    "descrizione_completa": "Mozzarella e panatura.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/mozzarella-sticks-6-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4890,7 +4890,7 @@
    "prezzo_centesimi": 450,
    "descrizione": "Stagionale: disponibile in estate.",
    "descrizione_completa": "Stagionale: disponibile in estate.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/fiori-di-zucca-e-alici-2-pz.webp",
    "icona": "",
    "visibile": false,
    "ingredienti": [
@@ -4922,7 +4922,7 @@
    "prezzo_centesimi": 450,
    "descrizione": "Farina di ceci e prezzemolo.",
    "descrizione_completa": "Farina di ceci e prezzemolo.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/panelle.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4947,7 +4947,7 @@
    "prezzo_centesimi": 450,
    "descrizione": "Patate.",
    "descrizione_completa": "Patate.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/patatine-fritte-grandi.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4966,7 +4966,7 @@
    "prezzo_centesimi": 700,
    "descrizione": "Patate, Bacon e cheddar.",
    "descrizione_completa": "Patate, Bacon e cheddar.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/patatine-con-bacon-e-cheddar.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
