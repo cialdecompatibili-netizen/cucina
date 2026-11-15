@@ -1,9 +1,9 @@
 ---
 layout: negozio-categoria
-title: "Sandwiches"
+title: "Burgers"
 cid: hamburger
 permalink: /en/shop/category/burgers/
-description: "Sandwiches and burgers, takeaway and home delivery."
+description: "Burgers, takeaway and home delivery."
 lang: en
 locale: en
 ref: shop-cat-hamburger
