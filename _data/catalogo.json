@@ -7057,7 +7057,7 @@
    "prezzo_centesimi": 600,
    "descrizione": "Stagionale: da dicembre ad aprile.",
    "descrizione_completa": "Stagionale: da dicembre ad aprile.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/carciofi-alla-romana.webp",
    "icona": "",
    "visibile": false,
    "ingredienti": [
@@ -7088,7 +7088,7 @@
    "prezzo_centesimi": 1200,
    "descrizione": "Vitello, Prosciutto crudo, Salvia, Vino bianco e patate al forno.",
    "descrizione_completa": "Vitello, Prosciutto crudo, Salvia, Vino bianco e patate al forno.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/saltimbocca-alla-romana-con-patate.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -7125,7 +7125,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Polpette di carne e sugo di pomodoro.",
    "descrizione_completa": "Polpette di carne e sugo di pomodoro.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/polpette-al-sugo-4-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -7152,7 +7152,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Trippa, Pomodoro, Pecorino romano e menta.",
    "descrizione_completa": "Trippa, Pomodoro, Pecorino romano e menta.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/trippa-alla-romana.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -7214,7 +7214,7 @@
    "prezzo_centesimi": 1300,
    "descrizione": "Abbacchio, Patate al forno e rosmarino.",
    "descrizione_completa": "Abbacchio, Patate al forno e rosmarino.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/abbacchio-al-forno-con-patate.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
