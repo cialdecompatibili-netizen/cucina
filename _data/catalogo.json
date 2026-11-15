@@ -4227,7 +4227,7 @@
    "prezzo_centesimi": 850,
    "descrizione": "Pane, Pollo in panatura, Insalata e salsa.",
    "descrizione_completa": "Pane, Pollo in panatura, Insalata e salsa.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/crispy-chicken-burger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4289,7 +4289,7 @@
    "prezzo_centesimi": 1000,
    "descrizione": "Pane, Manzo, Bacon, Cipolla fritta e salsa bbq.",
    "descrizione_completa": "Pane, Manzo, Bacon, Cipolla fritta e salsa bbq.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/burger-bbq.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4350,7 +4350,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Pane, Burger vegetale, Insalata e pomodoro.",
    "descrizione_completa": "Pane, Burger vegetale, Insalata e pomodoro.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/burger-veggie.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4407,7 +4407,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Parti dal panino base e aggiungi gli extra che vuoi.",
    "descrizione_completa": "Parti dal panino base e aggiungi gli extra che vuoi.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/componi-il-tuo-hamburger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4456,7 +4456,7 @@
    "prezzo_centesimi": 1000,
    "descrizione": "Pane, Manzo, Guanciale, Crema all'uovo e pecorino.",
    "descrizione_completa": "Pane, Manzo, Guanciale, Crema all'uovo e pecorino.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/carbonara-burger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4521,7 +4521,7 @@
    "prezzo_centesimi": 450,
    "descrizione": "Anelli di cipolla croccanti.",
    "descrizione_completa": "Anelli di cipolla croccanti.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/anelli-di-cipolla.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4543,7 +4543,7 @@
    "prezzo_centesimi": 1300,
    "descrizione": "Hamburger classico, patatine e bibita.",
    "descrizione_completa": "Hamburger classico, patatine e bibita.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-burger.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4806,7 +4806,7 @@
    "prezzo_centesimi": 600,
    "descrizione": "Olive ripiene di carne e panatura.",
    "descrizione_completa": "Olive ripiene di carne e panatura.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/olive-ascolane-8-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
