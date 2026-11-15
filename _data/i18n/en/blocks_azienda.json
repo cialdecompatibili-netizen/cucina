@@ -1,14 +1,20 @@
 [
   {
     "id": "chi",
-    "nome": "About us",
+    "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Title of the introduction</h2><p class=\"gc-lead\">Who you are, what you do and for whom.</p><p>One more paragraph about how you work.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">A kitchen for every craving</h2><p class=\"gc-lead\">Forno e Forchetta is takeaway and home delivery in Monterotondo, Mentana and Fonte Nuova.</p><p>Instead of one huge menu that does a bit of everything, we chose to split things up: pizza, piadine, oven-baked pasta, sandwiches and schiacciata, roast chicken, fried street food, Asian food, kebab, work lunches and bowls each have their own kitchen and their own menu. That way every dish stays what it should be, and you find what you feel like eating right away.</p></div></section></div>"
   },
   {
     "id": "principi",
-    "nome": "Principles",
+    "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we behave</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>First principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Second principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Third principle</b><p>Short description.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we work</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>One kitchen, one craft</b><p>Each kitchen prepares only its own menu. No dishes added just to fill the list.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Clear ingredients</b><p>You see the ingredients of every dish and, where available, you can add the extras you like.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Close to you</b><p>We deliver locally, and if you have a request just write to us: we reply as soon as we can.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "zona",
+    "nome": "Dove consegniamo",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"zona\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Where we deliver</h2><p>Mentana, Tor Lupara, Fonte Nuova and Santa Lucia (00013), Monterotondo and Monterotondo Scalo (00015). Order from the site, choosing the kitchen you prefer.</p><p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">See the menu</a> <a class=\"gc-btn gc-btn-line\" href=\"__BASEURL__/contatti/\">Write to us</a></p></div></section></div>"
   }
 ]

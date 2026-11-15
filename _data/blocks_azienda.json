@@ -3,12 +3,18 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Titolo della presentazione</h2><p class=\"gc-lead\">Chi siete, cosa fate e per chi.</p><p>Un paragrafo in più su come lavorate.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Una cucina per ogni voglia</h2><p class=\"gc-lead\">Forno e Forchetta &egrave; cucina da asporto e consegna a Monterotondo, Mentana e Fonte Nuova.</p><p>Invece di un unico menu enorme dove si fa un po' di tutto, abbiamo scelto di dividere: pizza, piadine, primi da forno, panini e schiacciate, pollo arrosto, fritti, cucina asiatica, kebab, pranzo da lavoro e bowl hanno ciascuno la propria cucina e il proprio menu. Cos&igrave; ogni piatto resta quello che dovrebbe essere, e tu trovi subito ci&ograve; che hai voglia di mangiare.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Primo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Secondo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Terzo principio</b><p>Descrizione breve.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come lavoriamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Una cucina, un mestiere</b><p>Ogni cucina prepara solo il suo menu. Niente piatti messi in lista tanto per riempirla.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Ingredienti chiari</b><p>Di ogni piatto vedi gli ingredienti, e dove previsto puoi aggiungere gli extra che preferisci.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Vicini a te</b><p>Consegniamo in zona e se hai una richiesta ci scrivi: ti rispondiamo appena possibile.</p></div></div></div></section></div>"
+  },
+  {
+    "id": "zona",
+    "nome": "Dove consegniamo",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"zona\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Dove consegniamo</h2><p>Mentana, Tor Lupara, Fonte Nuova e Santa Lucia (00013), Monterotondo e Monterotondo Scalo (00015). Si ordina dal sito, scegliendo la cucina che preferisci.</p><p><a class=\"gc-btn\" href=\"__BASEURL__/negozio/\">Guarda il menu</a> <a class=\"gc-btn gc-btn-line\" href=\"__BASEURL__/contatti/\">Scrivici</a></p></div></section></div>"
   }
 ]
