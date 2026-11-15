@@ -4622,7 +4622,7 @@
    "prezzo_centesimi": 1400,
    "descrizione": "Alette di pollo, Patatine fritte e salse.",
    "descrizione_completa": "Alette di pollo, Patatine fritte e salse.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/box-alette-10-pz-con-patatine-e-salse.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4651,7 +4651,7 @@
    "prezzo_centesimi": 600,
    "descrizione": "Pollo in panatura.",
    "descrizione_completa": "Pollo in panatura.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/nuggets-di-pollo-6-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4673,7 +4673,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Coscia di pollo e patate al forno.",
    "descrizione_completa": "Coscia di pollo e patate al forno.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/coscia-di-pollo-con-patate.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4696,7 +4696,7 @@
    "prezzo_centesimi": 400,
    "descrizione": "Patate.",
    "descrizione_completa": "Patate.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/patate-al-forno-porzione.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -4715,7 +4715,7 @@
    "prezzo_centesimi": 700,
    "descrizione": "Wrap, Pollo, Insalata e salsa.",
    "descrizione_completa": "Wrap, Pollo, Insalata e salsa.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/wrap-di-pollo.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5326,7 +5326,7 @@
    "prezzo_centesimi": 900,
    "descrizione": "Carne, Patate, Insalata e salsa yogurt.",
    "descrizione_completa": "Carne, Patate, Insalata e salsa yogurt.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piatto-kebab.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5378,7 +5378,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Piadina, Falafel, Insalata e salsa yogurt.",
    "descrizione_completa": "Piadina, Falafel, Insalata e salsa yogurt.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piadina-falafel.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5432,7 +5432,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Falafel, Insalata, Hummus e salsa yogurt.",
    "descrizione_completa": "Falafel, Insalata, Hummus e salsa yogurt.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piatto-falafel-6-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
