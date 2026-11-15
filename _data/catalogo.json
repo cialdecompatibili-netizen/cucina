@@ -8354,6 +8354,234 @@
           "descrizione_completa": "Pick your cured meats, cheeses and creams: we fill the schiacciata to order, just how you like it."
         }
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-pomodoro-e-mozzarella",
+      "nome": "Panino pomodoro e mozzarella",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Pomodoro fresco, mozzarella, basilico e un filo d'olio.",
+      "descrizione_completa": "Pomodoro fresco, mozzarella, basilico e un filo d'olio extravergine, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tomato and mozzarella sandwich",
+          "descrizione": "Fresh tomato, mozzarella, basil and a drizzle of olive oil.",
+          "descrizione_completa": "Fresh tomato, mozzarella, basil and a drizzle of extra virgin olive oil in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-prosciutto-cotto-e-formaggio",
+      "nome": "Panino prosciutto cotto e formaggio",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Prosciutto cotto e formaggio a fette.",
+      "descrizione_completa": "Prosciutto cotto e formaggio a fette, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cooked ham and cheese sandwich",
+          "descrizione": "Sliced cooked ham and cheese.",
+          "descrizione_completa": "Sliced cooked ham and cheese in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-prosciutto-crudo-e-mozzarella",
+      "nome": "Panino prosciutto crudo e mozzarella",
+      "categoria": "panini",
+      "prezzo_centesimi": 55000,
+      "descrizione": "Prosciutto crudo, mozzarella e pomodoro.",
+      "descrizione_completa": "Prosciutto crudo, mozzarella e pomodoro, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cured ham and mozzarella sandwich",
+          "descrizione": "Cured ham, mozzarella and tomato.",
+          "descrizione_completa": "Cured ham, mozzarella and tomato in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-salame-e-formaggio",
+      "nome": "Panino salame e formaggio",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Salame a fette e formaggio.",
+      "descrizione_completa": "Salame a fette e formaggio, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Salami and cheese sandwich",
+          "descrizione": "Sliced salami and cheese.",
+          "descrizione_completa": "Sliced salami and cheese in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-mortadella",
+      "nome": "Panino mortadella",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Mortadella a fette sottili in un panino morbido.",
+      "descrizione_completa": "Mortadella a fette sottili, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mortadella sandwich",
+          "descrizione": "Thinly sliced mortadella in a soft roll.",
+          "descrizione_completa": "Thinly sliced mortadella in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-con-porchetta",
+      "nome": "Panino con porchetta",
+      "categoria": "panini",
+      "prezzo_centesimi": 55000,
+      "descrizione": "Porchetta in fette, calda e profumata.",
+      "descrizione_completa": "Porchetta in fette, in un panino croccante fuori e morbido dentro.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Porchetta sandwich",
+          "descrizione": "Sliced roast pork porchetta.",
+          "descrizione_completa": "Sliced roast pork porchetta in a roll, crisp outside and soft inside."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-tonno-e-pomodoro",
+      "nome": "Panino tonno e pomodoro",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Tonno, pomodoro e insalata.",
+      "descrizione_completa": "Tonno, pomodoro e insalata, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tuna and tomato sandwich",
+          "descrizione": "Tuna, tomato and lettuce.",
+          "descrizione_completa": "Tuna, tomato and lettuce in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-cotoletta-di-pollo",
+      "nome": "Panino cotoletta di pollo",
+      "categoria": "panini",
+      "prezzo_centesimi": 55000,
+      "descrizione": "Cotoletta di pollo, insalata e maionese.",
+      "descrizione_completa": "Cotoletta di pollo croccante, insalata e maionese, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Chicken cutlet sandwich",
+          "descrizione": "Chicken cutlet, lettuce and mayonnaise.",
+          "descrizione_completa": "Crispy chicken cutlet, lettuce and mayonnaise in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-tacchino-e-insalata",
+      "nome": "Panino tacchino e insalata",
+      "categoria": "panini",
+      "prezzo_centesimi": 45000,
+      "descrizione": "Petto di tacchino, insalata, pomodoro e maionese.",
+      "descrizione_completa": "Petto di tacchino, insalata, pomodoro e maionese, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Turkey and salad sandwich",
+          "descrizione": "Turkey breast, lettuce, tomato and mayonnaise.",
+          "descrizione_completa": "Turkey breast, lettuce, tomato and mayonnaise in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-bresaola-rucola-e-grana",
+      "nome": "Panino bresaola, rucola e grana",
+      "categoria": "panini",
+      "prezzo_centesimi": 60000,
+      "descrizione": "Bresaola, rucola e scaglie di grana.",
+      "descrizione_completa": "Bresaola, rucola e scaglie di grana, con un filo d'olio, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Bresaola, rocket and grana sandwich",
+          "descrizione": "Bresaola, rocket and shavings of grana cheese.",
+          "descrizione_completa": "Bresaola, rocket and shavings of grana cheese with a drizzle of olive oil in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "panino-vegetariano",
+      "nome": "Panino vegetariano",
+      "categoria": "panini",
+      "prezzo_centesimi": 50000,
+      "descrizione": "Verdure grigliate e formaggio filante.",
+      "descrizione_completa": "Verdure grigliate e formaggio filante, in un panino morbido.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Vegetarian sandwich",
+          "descrizione": "Grilled vegetables and melted cheese.",
+          "descrizione_completa": "Grilled vegetables and melted cheese in a soft roll."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "toast-prosciutto-cotto-e-formaggio",
+      "nome": "Toast prosciutto cotto e formaggio",
+      "categoria": "panini",
+      "prezzo_centesimi": 40000,
+      "descrizione": "Pane tostato con prosciutto cotto e formaggio fuso.",
+      "descrizione_completa": "Pane in cassetta tostato con prosciutto cotto e formaggio fuso.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ham and cheese toastie",
+          "descrizione": "Toasted bread with cooked ham and melted cheese.",
+          "descrizione_completa": "Toasted sandwich bread with cooked ham and melted cheese."
+        }
+      }
     }
   ],
   "_nota_pers": "ingredienti[]: {n, a:[allergeni], fisso:true = non rimovibile}; extra[]: {n, p:centesimi, a:[allergeni]}. Allergeni indicativi, da verificare con la cucina."
