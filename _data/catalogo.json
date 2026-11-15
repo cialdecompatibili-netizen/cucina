@@ -5020,7 +5020,7 @@
    "prezzo_centesimi": 600,
    "descrizione": "Riso, Prosciutto, Uova, Piselli e salsa di soia.",
    "descrizione_completa": "Riso, Prosciutto, Uova, Piselli e salsa di soia.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/riso-alla-cantonese.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5486,7 +5486,7 @@
    "prezzo_centesimi": 1000,
    "descrizione": "Kebab nel panino, patatine e bibita.",
    "descrizione_completa": "Kebab nel panino, patatine e bibita.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-kebab-patatine-e-bibita.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5516,7 +5516,7 @@
    "prezzo_centesimi": 1900,
    "descrizione": "Due kebab, patatine e due bibite.",
    "descrizione_completa": "Due kebab, patatine e due bibite.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/menu-famiglia-kebab.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5546,7 +5546,7 @@
    "prezzo_centesimi": 800,
    "descrizione": "Riso basmati, Carne e salsa yogurt.",
    "descrizione_completa": "Riso basmati, Carne e salsa yogurt.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/piatto-riso-basmati-con-kebab.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5594,7 +5594,7 @@
    "prezzo_centesimi": 400,
    "descrizione": "Ceci, Tahina e limone.",
    "descrizione_completa": "Ceci, Tahina e limone.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/hummus.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
@@ -5623,7 +5623,7 @@
    "prezzo_centesimi": 400,
    "descrizione": "Pasta fillo, Pistacchi, Miele e burro.",
    "descrizione_completa": "Pasta fillo, Pistacchi, Miele e burro.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/baklava-3-pz.webp",
    "icona": "",
    "visibile": true,
    "ingredienti": [
