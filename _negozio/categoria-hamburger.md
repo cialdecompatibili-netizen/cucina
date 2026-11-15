@@ -1,8 +1,8 @@
 ---
 layout: negozio-categoria
-title: "Hamburger"
+title: "Panini"
 cid: hamburger
 permalink: /negozio/categoria/hamburger/
-description: "Hamburger da asporto e consegna a domicilio."
+description: "Panini e hamburger da asporto e consegna a domicilio."
 ref: shop-cat-hamburger
 ---
