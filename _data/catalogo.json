@@ -8078,7 +8078,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Tè freddo alla pesca, 33 cl.",
       "descrizione_completa": "Tè freddo alla pesca, 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/estathe-pesca-33-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8090,7 +8090,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Bottiglia da 1,5 litri.",
       "descrizione_completa": "Bottiglia da 1,5 litri.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/coca-cola-1-5-l.webp",
       "icona": "",
       "visibile": true
     },
@@ -8102,7 +8102,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Bottiglia da 27,5 cl.",
       "descrizione_completa": "Bottiglia da 27,5 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/aranciata-lurisia-27-5-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8114,7 +8114,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Bottiglia da 27,5 cl.",
       "descrizione_completa": "Bottiglia da 27,5 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/limonata-lurisia-27-5-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8126,7 +8126,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Bottiglia da 27,5 cl.",
       "descrizione_completa": "Bottiglia da 27,5 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/chinotto-lurisia-27-5-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8366,7 +8366,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Scegli tu salumi, formaggi e creme: la schiacciata la farciamo al momento.",
       "descrizione_completa": "Scegli tu salumi, formaggi e creme: la schiacciata la farciamo al momento, come piace a te.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/componi-la-tua-schiacciata.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8385,7 +8385,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Pomodoro fresco, mozzarella, basilico e un filo d'olio.",
       "descrizione_completa": "Pomodoro fresco, mozzarella, basilico e un filo d'olio extravergine, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-pomodoro-e-mozzarella.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8404,7 +8404,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Prosciutto cotto e formaggio a fette.",
       "descrizione_completa": "Prosciutto cotto e formaggio a fette, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-prosciutto-cotto-e-formaggio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8423,7 +8423,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Prosciutto crudo, mozzarella e pomodoro.",
       "descrizione_completa": "Prosciutto crudo, mozzarella e pomodoro, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-prosciutto-crudo-e-mozzarella.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8442,7 +8442,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Salame a fette e formaggio.",
       "descrizione_completa": "Salame a fette e formaggio, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-salame-e-formaggio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8461,7 +8461,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Mortadella a fette sottili in un panino morbido.",
       "descrizione_completa": "Mortadella a fette sottili, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-mortadella.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8480,7 +8480,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Porchetta in fette, calda e profumata.",
       "descrizione_completa": "Porchetta in fette, in un panino croccante fuori e morbido dentro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-con-porchetta.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8499,7 +8499,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Tonno, pomodoro e insalata.",
       "descrizione_completa": "Tonno, pomodoro e insalata, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-tonno-e-pomodoro.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8518,7 +8518,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Cotoletta di pollo, insalata e maionese.",
       "descrizione_completa": "Cotoletta di pollo croccante, insalata e maionese, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-cotoletta-di-pollo.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8537,7 +8537,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Petto di tacchino, insalata, pomodoro e maionese.",
       "descrizione_completa": "Petto di tacchino, insalata, pomodoro e maionese, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-tacchino-e-insalata.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8556,7 +8556,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Bresaola, rucola e scaglie di grana.",
       "descrizione_completa": "Bresaola, rucola e scaglie di grana, con un filo d'olio, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-bresaola-rucola-e-grana.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8575,7 +8575,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Verdure grigliate e formaggio filante.",
       "descrizione_completa": "Verdure grigliate e formaggio filante, in un panino morbido.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/panino-vegetariano.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -8594,7 +8594,7 @@
       "prezzo_centesimi": 400,
       "descrizione": "Pane tostato con prosciutto cotto e formaggio fuso.",
       "descrizione_completa": "Pane in cassetta tostato con prosciutto cotto e formaggio fuso.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/toast-prosciutto-cotto-e-formaggio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
