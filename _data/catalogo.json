@@ -2384,7 +2384,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Croccante, caldo, pronto da mangiare con le mani.",
       "descrizione_completa": "Croccante, caldo, pronto da mangiare con le mani.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cono-di-calamari-fritti.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2411,7 +2411,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Croccante, caldo, pronto da mangiare con le mani.",
       "descrizione_completa": "Croccante, caldo, pronto da mangiare con le mani.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cono-di-alici-fritte.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2438,7 +2438,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Spaghetti, Vongole, Aglio, Prezzemolo e olio.",
       "descrizione_completa": "Spaghetti, Vongole, Aglio, Prezzemolo e olio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/spaghetti-alle-vongole.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2477,7 +2477,7 @@
       "prezzo_centesimi": 1000,
       "descrizione": "Filetti di baccalà dorati e croccanti.",
       "descrizione_completa": "Filetti di baccalà dorati e croccanti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/filetti-di-baccala-fritti.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2504,7 +2504,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Pasta, Tonno, Pomodoro e olive.",
       "descrizione_completa": "Pasta, Tonno, Pomodoro e olive.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pasta-al-tonno.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2580,7 +2580,7 @@
       "prezzo_centesimi": 1800,
       "descrizione": "Spaghetti, Astice, Pomodorini e prezzemolo.",
       "descrizione_completa": "Spaghetti, Astice, Pomodorini e prezzemolo.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/spaghetti-all-astice.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
