@@ -2615,7 +2615,7 @@
       "prezzo_centesimi": 1400,
       "descrizione": "Paccheri, Mazzancolle, Pomodorini e prezzemolo.",
       "descrizione_completa": "Paccheri, Mazzancolle, Pomodorini e prezzemolo.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/paccheri-con-mazzancolle.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2650,7 +2650,7 @@
       "prezzo_centesimi": 1400,
       "descrizione": "Gamberoni, Pangrattato, Prezzemolo e limone.",
       "descrizione_completa": "Gamberoni, Pangrattato, Prezzemolo e limone.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gamberoni-gratinati.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2685,7 +2685,7 @@
       "prezzo_centesimi": 2200,
       "descrizione": "Frittura mista da dividere in due, con patatine.",
       "descrizione_completa": "Frittura mista da dividere in due, con patatine.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/box-frittura-per-2-persone.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2728,7 +2728,7 @@
       "prezzo_centesimi": 2000,
       "descrizione": "Un primo di pesce, una frittura piccola e l'acqua.",
       "descrizione_completa": "Un primo di pesce, una frittura piccola e l'acqua.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/menu-pesce-per-1.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -2762,7 +2762,7 @@
       "prezzo_centesimi": 3800,
       "descrizione": "Risotto di scampi, frittura e dolce per due persone.",
       "descrizione_completa": "Risotto di scampi, frittura e dolce per due persone.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cena-a-due-di-pesce.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -3833,7 +3833,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Melanzane, Pomodoro, Mozzarella, Parmigiano e basilico.",
       "descrizione_completa": "Melanzane, Pomodoro, Mozzarella, Parmigiano e basilico.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/parmigiana-di-melanzane.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -3881,7 +3881,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Gnocchi al forno con pomodoro e mozzarella filante.",
       "descrizione_completa": "Gnocchi al forno con pomodoro e mozzarella filante.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gnocchi-alla-sorrentina.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -3925,7 +3925,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Sfoglia all'uovo, Pesto di basilico, Besciamella e parmigiano.",
       "descrizione_completa": "Sfoglia all'uovo, Pesto di basilico, Besciamella e parmigiano.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/lasagna-al-pesto.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -3975,7 +3975,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Sfoglia all'uovo, Verdure, Besciamella e parmigiano.",
       "descrizione_completa": "Sfoglia all'uovo, Verdure, Besciamella e parmigiano.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/lasagne-vegetariane.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -4023,7 +4023,7 @@
       "prezzo_centesimi": 1800,
       "descrizione": "Teglia di lasagne per 2-3 persone.",
       "descrizione_completa": "Teglia di lasagne per 2-3 persone.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/lasagne-formato-famiglia.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -5692,7 +5692,7 @@
       "prezzo_centesimi": 950,
       "descrizione": "Pollo arrosto e patate al forno.",
       "descrizione_completa": "Pollo arrosto e patate al forno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pollo-arrosto-e-patate-monoporzione.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -5715,7 +5715,7 @@
       "prezzo_centesimi": 950,
       "descrizione": "Insalata, Pollo, Grana, Crostini di pane e salsa caesar.",
       "descrizione_completa": "Insalata, Pollo, Grana, Crostini di pane e salsa caesar.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/caesar-salad-con-pollo.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -5757,7 +5757,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Vitello e salsa tonnata.",
       "descrizione_completa": "Vitello e salsa tonnata.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/vitello-tonnato.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -5783,7 +5783,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Melanzane, Pomodoro, Mozzarella e parmigiano.",
       "descrizione_completa": "Melanzane, Pomodoro, Mozzarella e parmigiano.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/parmigiana-di-melanzane-monoporzione.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -5818,7 +5818,7 @@
       "prezzo_centesimi": 4500,
       "descrizione": "Cinque pranzi per la settimana a prezzo ridotto.",
       "descrizione_completa": "Cinque pranzi per la settimana a prezzo ridotto.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/abbonamento-5-pranzi.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6419,7 +6419,7 @@
       "prezzo_centesimi": 850,
       "descrizione": "Tagliatelle all'uovo e ragù.",
       "descrizione_completa": "Tagliatelle all'uovo e ragù.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tagliatelle-al-ragu.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6447,7 +6447,7 @@
       "prezzo_centesimi": 750,
       "descrizione": "Pasta fresca all'uovo, Ricotta e spinaci.",
       "descrizione_completa": "Pasta fresca all'uovo, Ricotta e spinaci.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tortelloni-ricotta-e-spinaci.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6479,7 +6479,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Carne, Pomodoro, Sedano e carota.",
       "descrizione_completa": "Carne, Pomodoro, Sedano e carota.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/ragu-vasetto.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6512,7 +6512,7 @@
       "prezzo_centesimi": 400,
       "descrizione": "Pomodoro, Basilico e olio.",
       "descrizione_completa": "Pomodoro, Basilico e olio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sugo-di-pomodoro-e-basilico-vasetto.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6539,7 +6539,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Savoiardi, Crema al mascarpone e crema di pistacchio.",
       "descrizione_completa": "Savoiardi, Crema al mascarpone e crema di pistacchio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tiramisu-al-pistacchio.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6573,7 +6573,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Savoiardi, Caffè e crema al mascarpone.",
       "descrizione_completa": "Savoiardi, Caffè e crema al mascarpone.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tiramisu-al-caffe.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6605,7 +6605,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Savoiardi, Crema al mascarpone e crema alle nocciole e cacao.",
       "descrizione_completa": "Savoiardi, Crema al mascarpone e crema alle nocciole e cacao.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tiramisu-alla-nutella.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6639,7 +6639,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Savoiardi, Crema al mascarpone e fragole.",
       "descrizione_completa": "Savoiardi, Crema al mascarpone e fragole.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tiramisu-alla-fragola.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6702,7 +6702,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Cioccolato, Uova, Burro e farina.",
       "descrizione_completa": "Cioccolato, Uova, Burro e farina.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tortino-al-cioccolato-cuore-caldo.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6739,7 +6739,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Cioccolato, Burro, Uova, Farina e noci.",
       "descrizione_completa": "Cioccolato, Burro, Uova, Farina e noci.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/brownies.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
