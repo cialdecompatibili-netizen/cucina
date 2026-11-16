@@ -6782,7 +6782,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Crepes e crema alle nocciole e cacao.",
       "descrizione_completa": "Crepes e crema alle nocciole e cacao.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/crepes-alla-nutella.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6811,7 +6811,7 @@
       "prezzo_centesimi": 350,
       "descrizione": "Biscotti, Cioccolato, Burro e uova.",
       "descrizione_completa": "Biscotti, Cioccolato, Burro e uova.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/salame-al-cioccolato.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -6848,7 +6848,7 @@
       "prezzo_centesimi": 400,
       "descrizione": "Cioccolato, Farina, Uova e burro.",
       "descrizione_completa": "Cioccolato, Farina, Uova e burro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/torta-al-cioccolato-fetta.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7263,7 +7263,7 @@
       "prezzo_centesimi": 1000,
       "descrizione": "Pollo, Pomodoro, Vino bianco e rosmarino.",
       "descrizione_completa": "Pollo, Pomodoro, Vino bianco e rosmarino.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pollo-alla-cacciatora.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7296,7 +7296,7 @@
       "prezzo_centesimi": 800,
       "descrizione": "Semolino, Latte, Burro e parmigiano.",
       "descrizione_completa": "Semolino, Latte, Burro e parmigiano.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/gnocchi-alla-romana.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7335,7 +7335,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Pane e porchetta.",
       "descrizione_completa": "Pane e porchetta.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/porchetta-in-panino.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7360,7 +7360,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Stagionale: disponibile in estate.",
       "descrizione_completa": "Stagionale: disponibile in estate.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/fiori-di-zucca-ripieni-2-pz.webp",
       "icona": "",
       "visibile": false,
       "ingredienti": [
@@ -7398,7 +7398,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Ricotta romana e pomodori infornati.",
       "descrizione_completa": "Ricotta romana e pomodori infornati.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/ricotta-romana-con-pomodori-infornati.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
