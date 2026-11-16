@@ -7423,7 +7423,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Cioccolato, Burro, Uova e farina.",
       "descrizione_completa": "Cioccolato, Burro, Uova e farina.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tenerina-al-cioccolato.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7489,7 +7489,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Vitello, Panatura, Burro e patatine fritte.",
       "descrizione_completa": "Vitello, Panatura, Burro e patatine fritte.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cotoletta-alla-milanese-con-patatine.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7525,7 +7525,7 @@
       "prezzo_centesimi": 1000,
       "descrizione": "Pollo, Farina, Limone e burro.",
       "descrizione_completa": "Pollo, Farina, Limone e burro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/scaloppine-di-pollo-al-limone.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7560,7 +7560,7 @@
       "prezzo_centesimi": 1300,
       "descrizione": "Manzo, Vino rosso, Sedano e carota.",
       "descrizione_completa": "Manzo, Vino rosso, Sedano e carota.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/brasato-di-manzo.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7595,7 +7595,7 @@
       "prezzo_centesimi": 1600,
       "descrizione": "Piatto della stagione fredda.",
       "descrizione_completa": "Piatto della stagione fredda.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/ossobuco-alla-milanese.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7632,7 +7632,7 @@
       "prezzo_centesimi": 1500,
       "descrizione": "Manzo, Rucola e grana.",
       "descrizione_completa": "Manzo, Rucola e grana.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/tagliata-di-manzo-con-rucola-e-grana.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7661,7 +7661,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Coniglio, Pomodoro, Vino bianco e rosmarino.",
       "descrizione_completa": "Coniglio, Pomodoro, Vino bianco e rosmarino.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/coniglio-alla-cacciatora.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7694,7 +7694,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Fagioli, Pasta, Sedano e pomodoro.",
       "descrizione_completa": "Fagioli, Pasta, Sedano e pomodoro.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/zuppa-di-pasta-e-fagioli.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7729,7 +7729,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Verdure di stagione, Sedano e patate.",
       "descrizione_completa": "Verdure di stagione, Sedano e patate.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/zuppa-ortolana.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7758,7 +7758,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Patate e rosmarino.",
       "descrizione_completa": "Patate e rosmarino.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/patate-al-forno.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7781,7 +7781,7 @@
       "prezzo_centesimi": 500,
       "descrizione": "Cicoria, Aglio e olio.",
       "descrizione_completa": "Cicoria, Aglio e olio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/cicoria-ripassata.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7808,7 +7808,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Verdure di stagione e olio.",
       "descrizione_completa": "Verdure di stagione e olio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/verdure-di-stagione-grigliate.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7831,7 +7831,7 @@
       "prezzo_centesimi": 450,
       "descrizione": "Insalata, Pomodoro e carote.",
       "descrizione_completa": "Insalata, Pomodoro e carote.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/insalata-mista.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7858,7 +7858,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Fagioli, Pomodoro e salvia.",
       "descrizione_completa": "Fagioli, Pomodoro e salvia.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/fagioli-all-uccelletto.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7885,7 +7885,7 @@
       "prezzo_centesimi": 550,
       "descrizione": "Broccoletti, Aglio, Peperoncino e olio.",
       "descrizione_completa": "Broccoletti, Aglio, Peperoncino e olio.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/broccoletti-ripassati.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7916,7 +7916,7 @@
       "prezzo_centesimi": 600,
       "descrizione": "Scarola, Olive, Capperi e acciughe.",
       "descrizione_completa": "Scarola, Olive, Capperi e acciughe.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/scarola-alla-romana.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7949,7 +7949,7 @@
       "prezzo_centesimi": 700,
       "descrizione": "Stagionali: inverno.",
       "descrizione_completa": "Stagionali: inverno.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/puntarelle-alla-romana.webp",
       "icona": "",
       "visibile": true,
       "ingredienti": [
@@ -7982,7 +7982,7 @@
       "prezzo_centesimi": 120,
       "descrizione": "Bottiglia da 50 cl.",
       "descrizione_completa": "Bottiglia da 50 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/acqua-naturale-50-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -7994,7 +7994,7 @@
       "prezzo_centesimi": 120,
       "descrizione": "Bottiglia da 50 cl.",
       "descrizione_completa": "Bottiglia da 50 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/acqua-frizzante-50-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8006,7 +8006,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Bottiglia in vetro da 75 cl.",
       "descrizione_completa": "Bottiglia in vetro da 75 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/acqua-75-cl-in-vetro.webp",
       "icona": "",
       "visibile": true
     },
@@ -8018,7 +8018,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Lattina da 33 cl.",
       "descrizione_completa": "Lattina da 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/coca-cola-lattina-33-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8030,7 +8030,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Lattina da 33 cl.",
       "descrizione_completa": "Lattina da 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/coca-cola-zero-lattina-33-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8042,7 +8042,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Lattina da 33 cl.",
       "descrizione_completa": "Lattina da 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/fanta-lattina-33-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8054,7 +8054,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Lattina da 33 cl.",
       "descrizione_completa": "Lattina da 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/sprite-lattina-33-cl.webp",
       "icona": "",
       "visibile": true
     },
@@ -8066,7 +8066,7 @@
       "prezzo_centesimi": 250,
       "descrizione": "Tè freddo al limone, 33 cl.",
       "descrizione_completa": "Tè freddo al limone, 33 cl.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/estathe-limone-33-cl.webp",
       "icona": "",
       "visibile": true
     },
