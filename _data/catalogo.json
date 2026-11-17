@@ -8984,6 +8984,101 @@
           "descrizione_completa": "Freshly squeezed orange juice."
         }
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "schiacciata-bresaola-rucola-e-grana",
+      "nome": "Schiacciata bresaola, rucola e grana",
+      "categoria": "schiacciate",
+      "prezzo_centesimi": 900,
+      "descrizione": "Bresaola, rucola fresca, scaglie di grana e un filo di limone.",
+      "descrizione_completa": "Bresaola, rucola fresca, scaglie di grana e un filo di limone, dentro una schiacciata croccante e morbida.",
+      "immagine": "assets/images/prodotti/schiacciata-bresaola-rucola-e-grana.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Schiacciata with bresaola, rocket and grana",
+          "descrizione": "Bresaola, fresh rocket, shaved grana cheese and a squeeze of lemon.",
+          "descrizione_completa": "Bresaola, fresh rocket, shaved grana cheese and a squeeze of lemon in a crisp, soft schiacciata."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "schiacciata-prosciutto-cotto-brie-e-noci",
+      "nome": "Schiacciata prosciutto cotto, brie e noci",
+      "categoria": "schiacciate",
+      "prezzo_centesimi": 850,
+      "descrizione": "Prosciutto cotto, brie cremoso, noci e un filo di miele.",
+      "descrizione_completa": "Prosciutto cotto di qualità, brie cremoso, noci croccanti e un filo di miele, dentro una schiacciata croccante e morbida.",
+      "immagine": "assets/images/prodotti/schiacciata-prosciutto-cotto-brie-e-noci.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Schiacciata with cooked ham, brie and walnuts",
+          "descrizione": "Cooked ham, creamy brie, walnuts and a drizzle of honey.",
+          "descrizione_completa": "Quality cooked ham, creamy brie, crunchy walnuts and a drizzle of honey in a crisp, soft schiacciata."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "schiacciata-roast-beef-rucola-e-grana",
+      "nome": "Schiacciata roast beef, rucola e grana",
+      "categoria": "schiacciate",
+      "prezzo_centesimi": 900,
+      "descrizione": "Roast beef, maionese al limone, rucola e scaglie di grana.",
+      "descrizione_completa": "Roast beef, maionese al limone, rucola fresca, pomodoro e scaglie di grana, dentro una schiacciata croccante e morbida.",
+      "immagine": "assets/images/prodotti/schiacciata-roast-beef-rucola-e-grana.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Schiacciata with roast beef, rocket and grana",
+          "descrizione": "Roast beef, lemon mayonnaise, rocket and shaved grana cheese.",
+          "descrizione_completa": "Roast beef, lemon mayonnaise, fresh rocket, tomato and shaved grana cheese in a crisp, soft schiacciata."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "schiacciata-speck-scamorza-e-radicchio",
+      "nome": "Schiacciata speck, scamorza e radicchio",
+      "categoria": "schiacciate",
+      "prezzo_centesimi": 850,
+      "descrizione": "Speck, scamorza affumicata fusa e radicchio.",
+      "descrizione_completa": "Speck, scamorza affumicata fusa e radicchio, dentro una schiacciata croccante e morbida.",
+      "immagine": "assets/images/prodotti/schiacciata-speck-scamorza-e-radicchio.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Schiacciata with speck, scamorza and radicchio",
+          "descrizione": "Speck, melted smoked scamorza and radicchio.",
+          "descrizione_completa": "Speck, melted smoked scamorza cheese and radicchio in a crisp, soft schiacciata."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "schiacciata-salmone-affumicato-e-rucola",
+      "nome": "Schiacciata salmone affumicato e rucola",
+      "categoria": "schiacciate",
+      "prezzo_centesimi": 950,
+      "descrizione": "Salmone affumicato, formaggio spalmabile, rucola e limone.",
+      "descrizione_completa": "Salmone affumicato, formaggio spalmabile, rucola fresca e un tocco di limone, dentro una schiacciata croccante e morbida.",
+      "immagine": "assets/images/prodotti/schiacciata-salmone-affumicato-e-rucola.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Schiacciata with smoked salmon and rocket",
+          "descrizione": "Smoked salmon, cream cheese, rocket and lemon.",
+          "descrizione_completa": "Smoked salmon, cream cheese, fresh rocket and a touch of lemon in a crisp, soft schiacciata."
+        }
+      }
     }
   ],
   "_nota_pers": "ingredienti[]: {n, a:[allergeni], fisso:true = non rimovibile}; extra[]: {n, p:centesimi, a:[allergeni]}. Allergeni indicativi, da verificare con la cucina."
