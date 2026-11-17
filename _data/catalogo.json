@@ -8604,6 +8604,386 @@
           "descrizione_completa": "Toasted sandwich bread with cooked ham and melted cheese."
         }
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-caprese",
+      "nome": "Insalata caprese",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 700,
+      "descrizione": "Pomodori freschi, mozzarella, basilico e olio extra vergine.",
+      "descrizione_completa": "Pomodori freschi, mozzarella, basilico e olio extra vergine.",
+      "immagine": "assets/images/prodotti/insalata-caprese.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Caprese salad",
+          "descrizione": "Fresh tomatoes, mozzarella, basil and extra virgin olive oil.",
+          "descrizione_completa": "Fresh tomatoes, mozzarella, basil and extra virgin olive oil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-riso",
+      "nome": "Insalata di riso",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 650,
+      "descrizione": "Riso freddo con tonno, mais, olive, pomodorini e sottaceti.",
+      "descrizione_completa": "Riso freddo con tonno, mais, olive, pomodorini e sottaceti.",
+      "immagine": "assets/images/prodotti/insalata-di-riso.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Rice salad",
+          "descrizione": "Cold rice with tuna, sweetcorn, olives, cherry tomatoes and pickles.",
+          "descrizione_completa": "Cold rice with tuna, sweetcorn, olives, cherry tomatoes and pickles."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-pasta-fredda",
+      "nome": "Insalata di pasta fredda",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 650,
+      "descrizione": "Pasta fredda con pomodorini, mozzarella, olive e basilico.",
+      "descrizione_completa": "Pasta fredda con pomodorini, mozzarella, olive e basilico.",
+      "immagine": "assets/images/prodotti/insalata-di-pasta-fredda.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cold pasta salad",
+          "descrizione": "Cold pasta with cherry tomatoes, mozzarella, olives and basil.",
+          "descrizione_completa": "Cold pasta with cherry tomatoes, mozzarella, olives and basil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-tonno-mais-e-fagioli",
+      "nome": "Insalata di tonno, mais e fagioli",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 700,
+      "descrizione": "Tonno, mais, fagioli cannellini, cipolla e pomodorini.",
+      "descrizione_completa": "Tonno, mais, fagioli cannellini, cipolla e pomodorini.",
+      "immagine": "assets/images/prodotti/insalata-di-tonno-mais-e-fagioli.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tuna, sweetcorn and bean salad",
+          "descrizione": "Tuna, sweetcorn, cannellini beans, onion and cherry tomatoes.",
+          "descrizione_completa": "Tuna, sweetcorn, cannellini beans, onion and cherry tomatoes."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-pollo",
+      "nome": "Insalata di pollo",
+      "categoria": "pranzo-ufficio",
+      "prezzo_centesimi": 750,
+      "descrizione": "Petto di pollo alla piastra con insalata, mais e pomodorini.",
+      "descrizione_completa": "Petto di pollo alla piastra con insalata, mais e pomodorini.",
+      "immagine": "assets/images/prodotti/insalata-di-pollo.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Chicken salad",
+          "descrizione": "Grilled chicken breast with salad leaves, sweetcorn and cherry tomatoes.",
+          "descrizione_completa": "Grilled chicken breast with salad leaves, sweetcorn and cherry tomatoes."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tagliere-di-salumi-e-formaggi",
+      "nome": "Tagliere di salumi e formaggi",
+      "categoria": "italiana",
+      "prezzo_centesimi": 1400,
+      "descrizione": "Prosciutto, salame, mortadella, formaggi misti e pane.",
+      "descrizione_completa": "Prosciutto, salame, mortadella, formaggi misti e pane.",
+      "immagine": "assets/images/prodotti/tagliere-di-salumi-e-formaggi.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cured meats and cheese board",
+          "descrizione": "Ham, salami, mortadella, mixed cheeses and bread.",
+          "descrizione_completa": "Ham, salami, mortadella, mixed cheeses and bread."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bruschette-al-pomodoro-4-pz",
+      "nome": "Bruschette al pomodoro (4 pz)",
+      "categoria": "italiana",
+      "prezzo_centesimi": 500,
+      "descrizione": "Pane tostato con pomodoro fresco, aglio, basilico e olio.",
+      "descrizione_completa": "Pane tostato con pomodoro fresco, aglio, basilico e olio.",
+      "immagine": "assets/images/prodotti/bruschette-al-pomodoro-4-pz.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tomato bruschetta (4 pcs)",
+          "descrizione": "Toasted bread with fresh tomato, garlic, basil and olive oil.",
+          "descrizione_completa": "Toasted bread with fresh tomato, garlic, basil and olive oil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pasta-al-pomodoro-e-basilico",
+      "nome": "Pasta al pomodoro e basilico",
+      "categoria": "italiana",
+      "prezzo_centesimi": 600,
+      "descrizione": "Pasta condita con sugo di pomodoro e basilico fresco.",
+      "descrizione_completa": "Pasta condita con sugo di pomodoro e basilico fresco.",
+      "immagine": "assets/images/prodotti/pasta-al-pomodoro-e-basilico.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pasta with tomato and basil",
+          "descrizione": "Pasta with tomato sauce and fresh basil.",
+          "descrizione_completa": "Pasta with tomato sauce and fresh basil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pasta-aglio-olio-e-peperoncino",
+      "nome": "Pasta aglio, olio e peperoncino",
+      "categoria": "italiana",
+      "prezzo_centesimi": 600,
+      "descrizione": "Spaghetti con aglio, olio extra vergine e peperoncino.",
+      "descrizione_completa": "Spaghetti con aglio, olio extra vergine e peperoncino.",
+      "immagine": "assets/images/prodotti/pasta-aglio-olio-e-peperoncino.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Spaghetti with garlic, oil and chilli",
+          "descrizione": "Spaghetti with garlic, extra virgin olive oil and chilli.",
+          "descrizione_completa": "Spaghetti with garlic, extra virgin olive oil and chilli."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pasta-al-pesto",
+      "nome": "Pasta al pesto",
+      "categoria": "italiana",
+      "prezzo_centesimi": 650,
+      "descrizione": "Pasta condita con pesto di basilico e una spolverata di grana.",
+      "descrizione_completa": "Pasta condita con pesto di basilico e una spolverata di grana.",
+      "immagine": "assets/images/prodotti/pasta-al-pesto.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pasta with pesto",
+          "descrizione": "Pasta with basil pesto and a sprinkle of Grana cheese.",
+          "descrizione_completa": "Pasta with basil pesto and a sprinkle of Grana cheese."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "frittata-di-zucchine",
+      "nome": "Frittata di zucchine",
+      "categoria": "italiana",
+      "prezzo_centesimi": 650,
+      "descrizione": "Frittata morbida con zucchine, uova e formaggio.",
+      "descrizione_completa": "Frittata morbida con zucchine, uova e formaggio.",
+      "immagine": "assets/images/prodotti/frittata-di-zucchine.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Courgette omelette",
+          "descrizione": "Soft omelette with courgettes, eggs and cheese.",
+          "descrizione_completa": "Soft omelette with courgettes, eggs and cheese."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-russa",
+      "nome": "Insalata russa",
+      "categoria": "contorni",
+      "prezzo_centesimi": 500,
+      "descrizione": "Verdure a cubetti, patate e piselli con maionese.",
+      "descrizione_completa": "Verdure a cubetti, patate e piselli con maionese.",
+      "immagine": "assets/images/prodotti/insalata-russa.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Russian salad",
+          "descrizione": "Diced vegetables, potatoes and peas with mayonnaise.",
+          "descrizione_completa": "Diced vegetables, potatoes and peas with mayonnaise."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "peperonata",
+      "nome": "Peperonata",
+      "categoria": "contorni",
+      "prezzo_centesimi": 550,
+      "descrizione": "Peperoni stufati con cipolla e pomodoro.",
+      "descrizione_completa": "Peperoni stufati con cipolla e pomodoro.",
+      "immagine": "assets/images/prodotti/peperonata.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Peperonata",
+          "descrizione": "Stewed peppers with onion and tomato.",
+          "descrizione_completa": "Stewed peppers with onion and tomato."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "insalata-di-pomodori-e-cipolla",
+      "nome": "Insalata di pomodori e cipolla",
+      "categoria": "contorni",
+      "prezzo_centesimi": 450,
+      "descrizione": "Pomodori a spicchi con cipolla rossa, origano e olio.",
+      "descrizione_completa": "Pomodori a spicchi con cipolla rossa, origano e olio.",
+      "immagine": "assets/images/prodotti/insalata-di-pomodori-e-cipolla.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tomato and onion salad",
+          "descrizione": "Tomato wedges with red onion, oregano and olive oil.",
+          "descrizione_completa": "Tomato wedges with red onion, oregano and olive oil."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "macedonia-di-frutta",
+      "nome": "Macedonia di frutta",
+      "categoria": "dolci",
+      "prezzo_centesimi": 400,
+      "descrizione": "Frutta fresca di stagione a pezzi, con un filo di limone.",
+      "descrizione_completa": "Frutta fresca di stagione a pezzi, con un filo di limone.",
+      "immagine": "assets/images/prodotti/macedonia-di-frutta.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Fruit salad",
+          "descrizione": "Fresh seasonal fruit pieces with a touch of lemon.",
+          "descrizione_completa": "Fresh seasonal fruit pieces with a touch of lemon."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "yogurt-greco-con-miele-e-noci",
+      "nome": "Yogurt greco con miele e noci",
+      "categoria": "dolci",
+      "prezzo_centesimi": 400,
+      "descrizione": "Yogurt greco con miele e noci.",
+      "descrizione_completa": "Yogurt greco con miele e noci.",
+      "immagine": "assets/images/prodotti/yogurt-greco-con-miele-e-noci.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Greek yoghurt with honey and walnuts",
+          "descrizione": "Greek yoghurt with honey and walnuts.",
+          "descrizione_completa": "Greek yoghurt with honey and walnuts."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "affogato-al-caffe",
+      "nome": "Affogato al caffè",
+      "categoria": "dolci",
+      "prezzo_centesimi": 400,
+      "descrizione": "Gelato alla crema con caffè espresso caldo.",
+      "descrizione_completa": "Gelato alla crema con caffè espresso caldo.",
+      "immagine": "assets/images/prodotti/affogato-al-caffe.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Affogato",
+          "descrizione": "Vanilla ice cream with hot espresso.",
+          "descrizione_completa": "Vanilla ice cream with hot espresso."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tramezzino-tonno-e-uova",
+      "nome": "Tramezzino tonno e uova",
+      "categoria": "panini-classici",
+      "prezzo_centesimi": 300,
+      "descrizione": "Pane morbido con tonno, uova sode e maionese.",
+      "descrizione_completa": "Pane morbido con tonno, uova sode e maionese.",
+      "immagine": "assets/images/prodotti/tramezzino-tonno-e-uova.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Tuna and egg tramezzino",
+          "descrizione": "Soft sandwich bread with tuna, hard-boiled egg and mayonnaise.",
+          "descrizione_completa": "Soft sandwich bread with tuna, hard-boiled egg and mayonnaise."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tramezzino-prosciutto-cotto-e-formaggio",
+      "nome": "Tramezzino prosciutto cotto e formaggio",
+      "categoria": "panini-classici",
+      "prezzo_centesimi": 300,
+      "descrizione": "Pane morbido con prosciutto cotto e formaggio.",
+      "descrizione_completa": "Pane morbido con prosciutto cotto e formaggio.",
+      "immagine": "assets/images/prodotti/tramezzino-prosciutto-cotto-e-formaggio.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ham and cheese tramezzino",
+          "descrizione": "Soft sandwich bread with cooked ham and cheese.",
+          "descrizione_completa": "Soft sandwich bread with cooked ham and cheese."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "spremuta-d-arancia",
+      "nome": "Spremuta d'arancia",
+      "categoria": "bibite",
+      "prezzo_centesimi": 350,
+      "descrizione": "Spremuta di arance, servita al momento.",
+      "descrizione_completa": "Spremuta di arance, servita al momento.",
+      "immagine": "assets/images/prodotti/spremuta-d-arancia.webp",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Fresh orange juice",
+          "descrizione": "Freshly squeezed orange juice.",
+          "descrizione_completa": "Freshly squeezed orange juice."
+        }
+      }
     }
   ],
   "_nota_pers": "ingredienti[]: {n, a:[allergeni], fisso:true = non rimovibile}; extra[]: {n, p:centesimi, a:[allergeni]}. Allergeni indicativi, da verificare con la cucina."
